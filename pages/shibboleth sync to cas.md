@@ -4,4 +4,4 @@ title: Shibboleth sync to CAS
 
 ## #sso
 
-## Jan 6 -
+## Jan 6 - svn revision
