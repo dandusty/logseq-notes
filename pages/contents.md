@@ -1,3 +1,3 @@
 ## [[How bout this]]
-### [[Sub page]]
+### [[New York Knights]]
 ## [[Another page]]
