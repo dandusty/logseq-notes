@@ -22,42 +22,6 @@ title: Kindle Unlimited to Read
 - [ ] [The Crimson Queen](https://www.amazon.com/gp/product/B01MRTK9NF?
 ref_=dbs_m_mng_rwt_calw_tkin_0&storeType=ebooks)
 	- Recommended a lot in [this r/fantasy thread - Kindle unlimited recommendations](https://www.reddit.com/r/Fantasy/comments/kwr3b8/kindle_unlimited_recommendations/)
-World Tree Online: The Curse of Hurlig Ridge
-•
-Recommended in this thread
-Dragon Mage
-•
-Looks like a good classic epic fantasy
-•
-Reviewed here on r/fantasy
-Gunmetal Gods
-•
-Looks cool, Lovecraftian Gods, epic fantasy
-•
-Author was r/fantasy writer of the day
-The Combat Codes
-•
-SPFBO 2020 Finalist
-The White Tiger
-•
-Man Booker winner
-•
-Now a Netflix movie
-The Lord of Stariel
-•
-Reviewed by lost_chayote
-•
-Nice cover art, part of a series
-•
-The Lord of Stariel is a delightful and fun fantasy-of-manners, with likable characters and an engaging mystery at its core.
-Magi and the Shinigami Detective
-•
-The Case Files of Henri Davenforth
-•
-Low stakes or cozy fantasy on reddit 
-Murder at Melrise Court
-•
-Downtown Abbey meets Agatha Christie
 ## #kindle_unlimited 
 #books
 #lists
