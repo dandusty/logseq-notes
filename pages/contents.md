@@ -1,3 +1,3 @@
 ## [[How bout this]]
-### Sub stuff
+### [[]]Sub page]]
 ## [[Another page]]
