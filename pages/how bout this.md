@@ -2,4 +2,4 @@
 title: How bout this
 ---
 
-## ## Hey
+## Hey
