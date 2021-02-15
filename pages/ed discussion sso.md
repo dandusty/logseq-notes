@@ -8,4 +8,4 @@ title: Ed Discussion SSO
 ## Alex is able to reproduce the signature error by using his test account.  He will look at the signing libraries he's using to determine what the error is.
 ## Alex recommends turning on signResponse and encryptAssertions.  Also, sign encryption if possible.
 ## We will retest and see if we get a different error message
-##
+## Alex mentioned that he might be able to
