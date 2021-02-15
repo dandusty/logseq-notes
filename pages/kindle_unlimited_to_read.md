@@ -22,7 +22,8 @@ title: Kindle Unlimited to Read
 - [ ] [The Crimson Queen](https://www.amazon.com/gp/product/B01MRTK9NF?
 ref_=dbs_m_mng_rwt_calw_tkin_0&storeType=ebooks)
 	- Recommended a lot in [this r/fantasy thread - Kindle unlimited recommendations](https://www.reddit.com/r/Fantasy/comments/kwr3b8/kindle_unlimited_recommendations/)
-## - [ ]  World Tree Online: The Curse of Hurlig Ridge
+## List
+- [ ]  World Tree Online: The Curse of Hurlig Ridge
     - Recommended in this [thread](https://reddit.com/r/litrpg/comments/l3f9t9/litrpg_with_good_relationships_andor_camaraderie/)
 - [ ]  [Dragon Mage](https://www.amazon.com/Dragon-Mage-Fantasy-Adventure-Rivenworld-ebook/dp/B08PDQ5XT4/ref=mp_s_a_1_1?dchild=1&keywords=dragon+mage&qid=1611719020&sprefix=sragon+mage&sr=8-1)
     - Looks like a good classic epic fantasy
