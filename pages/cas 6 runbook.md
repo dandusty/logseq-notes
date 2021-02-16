@@ -15,5 +15,5 @@ Production: There are three ways to restart CAS6
 cas-ecs-service -- update-service --force-new-deployment
 or
 cas-ecs-service --service cas-management -- update-service --force-new-deployment
-```
+#+END_EXAMPLE
 1. Use the AWS Web Console. Update the Service, either changing something or clicking "Force new deployment" on the first page.
