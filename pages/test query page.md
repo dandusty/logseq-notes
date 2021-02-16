@@ -18,7 +18,4 @@ title: Test Query Page
     :inputs [:today :10d-after]
     :collapsed? false}
 #+END_QUERY
-
-
-
 }}
