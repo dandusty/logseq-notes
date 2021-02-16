@@ -2,8 +2,12 @@
 title: Test Query Page
 ---
 
-##
-#+BEGIN_QUERY
+## {{query 
+
+
+
+
+}} #+BEGIN_QUERY
       {:title "📅 NEXT"
     :query [:find (pull ?h [*])
             :in $ ?start ?next
