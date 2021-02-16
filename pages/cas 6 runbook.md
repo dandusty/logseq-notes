@@ -10,6 +10,7 @@ Production: There are three ways to restart CAS6
 
 1. Wait after config changes. The refresh process should restart the containers
 1. Use the cas-ecs-service commandline on the config refresher
+##
 #+BEGIN_EXAMPLE
 . /srv/setenv
 cas-ecs-service -- update-service --force-new-deployment
