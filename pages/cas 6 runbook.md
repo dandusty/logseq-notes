@@ -16,4 +16,4 @@ or
 cas-ecs-service --service cas-management -- update-service --force-new-deployment
 #+END_EXAMPLE
 
- \3. Use the AWS Web Console. Update the Service, either changing something or clicking "Force new deployment" on the first page.
+ 3. Use the AWS Web Console. Update the Service, either changing something or clicking "Force new deployment" on the first page.
