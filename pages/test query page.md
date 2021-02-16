@@ -3,11 +3,7 @@ title: Test Query Page
 ---
 
 ## {{query 
-
-
-
-
-}} #+BEGIN_QUERY
+#+BEGIN_QUERY
       {:title "📅 NEXT"
     :query [:find (pull ?h [*])
             :in $ ?start ?next
@@ -22,3 +18,7 @@ title: Test Query Page
     :inputs [:today :10d-after]
     :collapsed? false}
 #+END_QUERY
+
+
+
+}}
