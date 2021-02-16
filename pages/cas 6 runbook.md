@@ -2,4 +2,18 @@
 title: CAS 6 Runbook
 ---
 
-## 
+## http://iamweb1.iam.gatech.edu/docs/internal/runbooks/cas6
+
+## CAS6 Restarts
+
+Production: There are three ways to restart CAS6
+
+1. Wait after config changes. The refresh process should restart the containers
+1. Use the cas-ecs-service commandline on the config refresher
+```
+. /srv/setenv
+cas-ecs-service -- update-service --force-new-deployment
+or
+cas-ecs-service --service cas-management -- update-service --force-new-deployment
+```
+1. Use the AWS Web Console. Update the Service, either changing something or clicking "Force new deployment" on the first page.
