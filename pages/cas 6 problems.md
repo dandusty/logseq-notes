@@ -16,3 +16,4 @@ testing url -
 :END:
 ## fw.noc
 testing url -
+https://fw.noc.gatech.edu/simplesaml/module.php/core/authenticate.php?as=default-sp
