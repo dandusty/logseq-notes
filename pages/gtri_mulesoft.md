@@ -3,6 +3,9 @@ title: GTRI Mulesoft
 ---
 
 ## GTRI Mulesoft Help
+:PROPERTIES:
+:id: 602e7aa5-01c8-49de-b727-0cbb62580561
+:END:
 ### Kevin said that the Professional Services thing that Balaji complained about was related to the TLS problem that Balaji had and PS would have been better because it involved hands on keyboard
 ### We can schedule a call to go over Best Practices with Naked Mule config without involved PS
 ### We need to schedule an information gathering call with Balaji and Kevin to figure out the needs
