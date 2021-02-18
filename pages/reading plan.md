@@ -10,3 +10,4 @@ title: Reading Plan
 :PROPERTIES:
 :todo: 1613649725326
 :END:
+SCHEDULED: <2021-02-18 Thu 10:00>
