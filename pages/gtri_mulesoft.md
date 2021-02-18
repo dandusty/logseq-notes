@@ -3,7 +3,7 @@ title: GTRI Mulesoft
 ---
 
 ## GTRI Mulesoft Help
-### Kevin said that the Professional Services
+### Kevin said that the Professional Services thing that Balaji complained about was related to the TLS problem that Balaji had and this
 ## GTRI Mulesoft Help
 :PROPERTIES:
 :id: 602e7740-8702-4333-bd17-ed0f910868b4
