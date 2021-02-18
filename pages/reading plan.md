@@ -6,7 +6,7 @@ title: Reading Plan
 15 hours 
 ## Five 3 hour blocks
 ### To read 50 pages, read 10 pages per block
-## TODO 
+## TODO 10 pages by 
 :PROPERTIES:
 :todo: 1613649725326
 :END:
