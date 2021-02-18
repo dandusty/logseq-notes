@@ -8,4 +8,4 @@ title: GTRI Mulesoft
 :END:
 ### The Professional Services that was recommended to Balaji was related to the TLS problem that has been resolved.
 ### Kevin said that a call to go over Best Practices for Naked Mule config should be possible
-### We will schedule a call with
+### We will schedule a call between us, Balaji and Kevin to get exact needs for
