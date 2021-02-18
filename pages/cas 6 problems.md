@@ -25,4 +25,4 @@ https://fw.noc.gatech.edu/simplesaml/module.php/core/authenticate.php?as=default
 - With javascript disabled, redirect to Login.gatech doesn't happen (leads to a single factor login opportunity)
   - Can we include something in the flow that warns users that login will not work if javascript isn't enabled? "You need to enable javascript to continue."  This would be on the CAS 6 login page
 ## Remedy
-### CAS app that
+### CAS app that is getting service ticket validated
