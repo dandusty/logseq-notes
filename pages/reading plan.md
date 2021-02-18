@@ -12,9 +12,10 @@ title: Reading Plan
 :done: 1613660419789
 :END:
 SCHEDULED: <2021-02-18 Thu 10:00>
-## TODO 10 pages 2 
+## DONE 10 pages 2 
 :PROPERTIES:
 :todo: 1613653358726
+:done: 1613675121757
 :END:
 SCHEDULED: <2021-02-18 Thu 13:00>
 ## TODO 10 pages 3
