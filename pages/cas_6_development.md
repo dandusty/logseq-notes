@@ -4,4 +4,4 @@ title: CAS 6 Development
 
 ## Where should we be making changes?
 1. Which branch should we all use?
-2. How do we reconcile changes
+2. How do we reconcile changes between master and test
