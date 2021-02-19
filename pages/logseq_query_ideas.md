@@ -34,7 +34,11 @@ All scheduled OR deadlines
 
 
 All scheduled AND deadlines (block must have both attributes)
-
+#+BEGIN_EXAMPLE
+#+BEGIN_QUERY
+{:title "All scheduled AND deadlines" :query [:find (pull ?b [*])  :where [?b :block/scheduled] [?b :block/deadline]]}
+#+END_QUERY
+#+END_EXAMPLE 
 #+BEGIN_QUERY
 {:title "All scheduled AND deadlines" :query [:find (pull ?b [*])  :where [?b :block/scheduled] [?b :block/deadline]]}
 #+END_QUERY
