@@ -22,11 +22,10 @@ title: Reading Plan
 :PROPERTIES:
 :todo: 1613653369725
 :END:
-## TODO 10 pages 4
+## TODO 10 pages by 19:00>
 :PROPERTIES:
 :todo: 1613653381728
 :END:
-SCHEDULED: <2021-02-18 Thu 19:00>
 ## TODO 10 pages 5 
 :PROPERTIES:
 :todo: 1613653392726
