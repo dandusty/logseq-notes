@@ -3,6 +3,7 @@ title: Logseq Query Ideas
 ---
 
 ## All scheduled
+<exam
 #+BEGIN_QUERY
 {:title "All scheduled" :query [:find (pull ?b [*]) :where [?b :block/scheduled]]}
 #+END_QUERY
