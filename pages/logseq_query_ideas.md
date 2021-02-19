@@ -14,9 +14,11 @@ title: Logseq Query Ideas
 
 
 All deadlines
+#+BEGIN_EXAMPLE
 #+BEGIN_QUERY
 {:title "All deadlines" :query [:find (pull ?b [*]) :where [?b :block/deadline]]}
 #+END_QUERY
+
 
 
 All scheduled OR deadlines
