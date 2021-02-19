@@ -12,13 +12,12 @@ title: Reading Plan
 :later: 1613746268982
 :done: 1613660419789
 :END:
-## TODO 10 pages 2 
+## TODO 10 pages by 13:00
 :PROPERTIES:
 :todo: 1613746336035
 :later: 1613746269904
 :done: 1613675121757
 :END:
-13:00
 ## TODO 10 pages 3: <2021-02-18 Thu 16:00>
 :PROPERTIES:
 :todo: 1613653369725
