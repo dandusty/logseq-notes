@@ -33,3 +33,6 @@ SCHEDULED: <2021-02-18 Thu 19:00>
 :todo: 1613653392726
 :END:
 SCHEDULED: <2021-02-18 Thu 22:00>
+## Themed Reads
+### Baseball March-April
+### Summer of Mystery
