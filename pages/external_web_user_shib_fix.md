@@ -4,4 +4,5 @@ title: External Web User Shib Fix
 
 ## Added some code to the end of attribute filter to check for an entitlement and then use a DenyValueRule to prevent givenName from being added
 
-## Need to
+## Not working yet, but think it's close
+##
