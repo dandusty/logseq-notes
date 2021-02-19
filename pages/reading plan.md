@@ -12,7 +12,10 @@ title: Reading Plan
 :later: 1613746268982
 :done: 1613660419789
 :END:
-### TODO 10 pages by 10:00
+### DONE 10 pages by 10:00
+:PROPERTIES:
+:done: 1613746558011
+:END:
 ### TODO 10 pages by 13:00
 :PROPERTIES:
 :todo: 1613746336035
