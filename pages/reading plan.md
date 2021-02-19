@@ -6,28 +6,28 @@ title: Reading Plan
 15 hours 
 ## Five 3 hour blocks
 ### To read 50 pages, read 10 pages per block
-## Read
+## Read-boxing plan
 :PROPERTIES:
 :todo: 1613746450038
 :later: 1613746268982
 :done: 1613660419789
 :END:
-## TODO 10 pages by 10:00
-## TODO 10 pages by 13:00
+### TODO 10 pages by 10:00
+### TODO 10 pages by 13:00
 :PROPERTIES:
 :todo: 1613746336035
 :later: 1613746269904
 :done: 1613675121757
 :END:
-## TODO 10 pages by 16:00
+### TODO 10 pages by 16:00
 :PROPERTIES:
 :todo: 1613653369725
 :END:
-## TODO 10 pages by 19:00
+### TODO 10 pages by 19:00
 :PROPERTIES:
 :todo: 1613653381728
 :END:
-## TODO 10 pages by 22:00
+### TODO 10 pages by 22:00
 :PROPERTIES:
 :todo: 1613653392726
 :END:
