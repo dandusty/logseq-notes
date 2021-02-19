@@ -6,7 +6,7 @@ title: Crispy Baked Chicken Thighs
 ## Recipe
 
 Crispy Baked Chicken Thighs - The most amazing oven baked chicken thighs! These chicken thighs come out crispy on the outside and amazingly tender and juicy on the inside. Baked chicken thighs are so easy to make with only a few ingredients and one pan!
-### Ingredients
+### **Ingredients**
 
 - 3 Pounds Chicken thighs, About 6-8
 - 2 Tablespoons Olive Oil
