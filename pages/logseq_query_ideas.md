@@ -18,10 +18,14 @@ All deadlines
 #+BEGIN_QUERY
 {:title "All deadlines" :query [:find (pull ?b [*]) :where [?b :block/deadline]]}
 #+END_QUERY
-
+#+END_EXAMPLE 
 
 
 All scheduled OR deadlines
+
+#+BEGIN_EXAMPLE
+
+#+END_EXAMPLE 
 #+BEGIN_QUERY
 {:title "All scheduled OR deadlines" :query [:find (pull ?b [*])  :where (or [?b :block/scheduled] [?b :block/deadline])]}
 #+END_QUERY
