@@ -37,3 +37,6 @@ SCHEDULED: <2021-02-18 Thu 22:00>
 ### Baseball
 #### March-April
 ### Summer of Mystery
+#### May-June
+### Halloween
+#### September-October
