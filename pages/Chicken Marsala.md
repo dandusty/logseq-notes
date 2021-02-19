@@ -1,6 +1,6 @@
 # Chicken Marsala
 
-![chicken-marsala 1.jpg](../../Attachments/chicken-marsala%201.jpg){:height 32, :width 626}
+/up
 ### INGREDIENTS
 
 ### Chicken:
