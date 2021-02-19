@@ -8,9 +8,7 @@ title: Logseq Query Ideas
 {:title "All scheduled" :query [:find (pull ?b [*]) :where [?b :block/scheduled]]}
 #+END_QUERY
 #+END_EXAMPLE 
-#+BEGIN_QUERY
-{:title "All scheduled" :query [:find (pull ?b [*]) :where [?b :block/scheduled]]}
-#+END_QUERY
+
 
 
 All deadlines
