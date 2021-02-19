@@ -3,7 +3,7 @@ title: Crispy Baked Chicken Thighs
 ---
 
 ## #chicken #recipes
-## *Recipe**
+## **Recipe**
 The most amazing oven baked chicken thighs! These chicken thighs come out crispy on the outside and amazingly tender and juicy on the inside. Baked chicken thighs are so easy to make with only a few ingredients and one pan!
 ### **Ingredients**
 
