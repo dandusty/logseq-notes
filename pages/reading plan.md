@@ -41,6 +41,7 @@ title: Reading Plan
 ### Summer of Mystery
 #### May-June
 ### Schools of Magic
+#### Vita Nostra
 ####
 ### Halloween
 #### September-October
