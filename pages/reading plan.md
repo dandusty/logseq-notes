@@ -42,6 +42,6 @@ title: Reading Plan
 #### May-June
 ### Schools of Magic
 #### Vita Nostra
-####
+#### A Deadly Education
 ### Halloween
 #### September-October
