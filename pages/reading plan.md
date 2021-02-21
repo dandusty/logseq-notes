@@ -40,5 +40,7 @@ title: Reading Plan
 #### March-April
 ### Summer of Mystery
 #### May-June
+### Schools of Magic
+####
 ### Halloween
 #### September-October
