@@ -43,5 +43,7 @@ title: Reading Plan
 ### Schools of Magic
 #### Vita Nostra
 #### A Deadly Education
+#### Magic for Liars
+#### Ninth House
 ### Halloween
 #### September-October
