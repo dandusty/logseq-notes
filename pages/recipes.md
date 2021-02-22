@@ -2,7 +2,4 @@
 title: recipes
 ---
 
-##
-#+BEGIN_QUERY
-chicken
-#+END_QUERY
+## {{query Something you're looking for}}
