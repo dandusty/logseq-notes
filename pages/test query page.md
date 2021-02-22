@@ -12,3 +12,5 @@ title: Test Query Page
 #+END_QUERY
 ## {{query [[recipes]]}}
 ## {{query ((between -7d +7d) )}}
+## {{query (between [[Dec 5th, 2020]] [[Dec 7th, 2020]] )}}
+##
