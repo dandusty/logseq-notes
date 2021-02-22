@@ -26,6 +26,7 @@ CAS logout URL – https://sso.gatech.edu/cas/logout
 ### When we have cas 3 and cas 6 login systems separated
 #### cas 3 logouts forward to cas 6
 #### use wording on the logout page to cover any gaps
-#### bigip - we look for cas 3 telling us logout was successful, then we redirect browser over to cas 6 logout
+#### BigIP - we look for cas 3 telling us logout was successful, then we redirect browser over to cas 6 logout
+####
 ### After phased upgrade is finished
 #### login logout goes to sso logout
