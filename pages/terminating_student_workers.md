@@ -12,6 +12,7 @@ How do I terminate a direct report?
 
 https://gatech.service-now.com/home?id=kb_article_view&sysparm_article=KB0024944
 
+
 The effective date should be the day after the last day worked.
 The “reason” is End of Student Employment.
 Be sure to include a brief statement in the comments section. Example: “Student graduated” or “Student accepted employment in another department”.
