@@ -22,7 +22,7 @@ title: Ground Beef with Green Beans
 ## Instructions
 ### Whisk together all ingredients for the marinade. Place raw ground beef in a medium sized bowl, pour marinade over beef, stir to fully combine. Set aside for 20 minutes.
 ### Heat a sauté pan over medium high heat. Add one tablespoon of oil. Cook the green beans, stirring often, until starting to blister, 3-4 minutes. Add in ginger, garlic, red pepper flakes, cook 30-60 seconds until fragrant. Remove from pan and reserve on a plate.
-Add beef, cook until browned.
-Add green beans back to the pan, stir to combine.
-Continue cooking until excess moisture has evaporated.
-#beef
+### Add beef, cook until browned.
+### Add green beans back to the pan, stir to combine.
+### Continue cooking until excess moisture has evaporated.
+### #beef
