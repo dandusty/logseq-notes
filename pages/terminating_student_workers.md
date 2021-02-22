@@ -4,11 +4,7 @@ title: Terminating Student Workers
 
 ## Greetings OIT Managers,
 
- 
-
 This email is to provide a quick update regarding student terminations and active status.
-
- 
 
 When student employees are no longer working with OIT, please promptly submit an end of appointment transaction via OneUSG Connect.  Doing so, ensures the system accurately reflects the working and reporting relationship. 
 
