@@ -1,4 +1,3 @@
-## [[Another page]]
 ## Family
 ### #ethan
 ## Tasks
