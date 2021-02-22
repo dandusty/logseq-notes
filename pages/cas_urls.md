@@ -23,6 +23,6 @@ CAS logout URL – https://sso.gatech.edu/cas/logout
 ## Log out urls
 ### While joined at the hip
 #### sso logout goes to login logout
-###
+### When we have cas 3 and cas 6 involved
 ### After phased upgrade is finished
 #### login logout goes to sso logout
