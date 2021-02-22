@@ -26,7 +26,7 @@ https://fw.noc.gatech.edu/simplesaml/module.php/core/authenticate.php?as=default
 #### Paul has pushed a fix for this (Works)
 ### Matlab (scoped affiliation)
 #### Now using eduPersonAffiliation
-#### Not
+#### Not appending "@gatech.edu"
 ### github academic and github business (entitlement authorization)
 ### Ridecell (not able to load metadata)
 ### With javascript disabled, redirect to Login.gatech doesn't happen (leads to a single factor login opportunity)
