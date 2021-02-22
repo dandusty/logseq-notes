@@ -2,4 +2,4 @@
 title: recipes
 ---
 
-## {{query Something you're looking for}}
+## {{query Cas}}
