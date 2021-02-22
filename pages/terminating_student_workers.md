@@ -10,7 +10,7 @@ When student employees are no longer working with OIT, please promptly submit an
 
 How do I terminate a direct report?
 
-
+[]
 
 
 The effective date should be the day after the last day worked.
