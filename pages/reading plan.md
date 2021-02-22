@@ -41,6 +41,7 @@ title: Reading Plan
 ### Summer of Mystery
 #### May-June
 ### Schools of Magic
+####
 #### Vita Nostra
 #### A Deadly Education
 #### Magic for Liars
