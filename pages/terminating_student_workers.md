@@ -10,7 +10,7 @@ When student employees are no longer working with OIT, please promptly submit an
 
 How do I terminate a direct report?
 
-[OneUSG Termination KB Article]
+[OneUSG Termination KB Article](https://gatech.service-now.com/home?id=kb_article_view&sysparm_article=KB0024944)
 
 
 The effective date should be the day after the last day worked.
@@ -33,3 +33,4 @@ Kind regards,
 Natacia Jackson, aPHR
 
 HR Consultant
+##
