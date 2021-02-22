@@ -11,4 +11,4 @@ title: Test Query Page
          [(not= ?m "nil")]]}
 #+END_QUERY
 ## {{query [[recipes]]}}
-## {{query (between [[Dec 5th, 2020]] [[Dec 7th, 2020]] )}}
+## {{query ((between -7d +7d) )}}
