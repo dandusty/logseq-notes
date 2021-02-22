@@ -25,4 +25,4 @@ title: Ground Beef with Green Beans
 ### Add beef, cook until browned.
 ### Add green beans back to the pan, stir to combine.
 ### Continue cooking until excess moisture has evaporated.
-### #beef
+### #beef #recipes
