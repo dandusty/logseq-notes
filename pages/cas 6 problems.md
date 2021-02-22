@@ -21,11 +21,9 @@ https://fw.noc.gatech.edu/simplesaml/module.php/core/authenticate.php?as=default
 :PROPERTIES:
 :background_color: #978626
 :END:
--
 ### TurningTechnologies (Incommon Essential Attribute bundle not released)
 ### Matlab (scoped affiliation)
-- github academic and github business (entitlement authorization)
-###
+### github academic and github business (entitlement authorization)
 ### - Ridecell (not able to load )
 - With javascript disabled, redirect to Login.gatech doesn't happen (leads to a single factor login opportunity)
   - Can we include something in the flow that warns users that login will not work if javascript isn't enabled? "You need to enable javascript to continue."  This would be on the CAS 6 login page
