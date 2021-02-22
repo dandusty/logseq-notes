@@ -2,4 +2,4 @@
 title: recipes
 ---
 
-## {{query sso}}
+## {{query (all-page-tags)}}
