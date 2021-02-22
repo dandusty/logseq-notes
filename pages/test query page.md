@@ -10,3 +10,4 @@ title: Test Query Page
          [?b :block/marker ?m]
          [(not= ?m "nil")]]}
 #+END_QUERY
+## {{query }}
