@@ -40,5 +40,14 @@ title: Reading Plan
 #### March-April
 ### Summer of Mystery
 #### May-June
+#### Crime
+#### Detective
+#### Mystery
+### Schools of Magic
+#### July-August
+#### Vita Nostra
+#### A Deadly Education
+#### Magic for Liars
+#### Ninth House
 ### Halloween
 #### September-October
