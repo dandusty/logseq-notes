@@ -38,16 +38,22 @@ title: Reading Plan
 ## Themed Reads
 ### Baseball
 #### March-April
+#### Books
+##### MVP Machine
+##### The Only Rule
+##### Summer of '49
 ### Summer of Mystery
 #### May-June
-#### Crime
-#### Detective
-#### Mystery
+#### Topics
+##### Crime
+##### Detective
+##### Mystery
 ### Schools of Magic
 #### July-August
-#### Vita Nostra
-#### A Deadly Education
-#### Magic for Liars
-#### Ninth House
+#### Books
+##### Vita Nostra
+##### A Deadly Education
+##### Magic for Liars
+##### Ninth House
 ### Halloween
 #### September-October
