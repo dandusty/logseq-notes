@@ -3,7 +3,7 @@ title: Ground Beef with Green Beans
 ---
 
 ## Ground Beef with Green Beans
-Ingredients
+### Ingredients
 1 pound ground beef
 8 oz green beans trimmed and cut in half
 1/4 tsp red pepper flakes more or less to taste
