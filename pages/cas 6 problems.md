@@ -17,12 +17,13 @@ testing url -
 ## fw.noc
 testing url -
 https://fw.noc.gatech.edu/simplesaml/module.php/core/authenticate.php?as=default-sp
+### Working now
 ## Remaining CAS Problems
 :PROPERTIES:
 :background_color: #978626
 :END:
 ### TurningTechnologies (Incommon Essential Attribute bundle not released)
-####
+#### Paul has pushed a fix for this
 ### Matlab (scoped affiliation)
 ### github academic and github business (entitlement authorization)
 ### Ridecell (not able to load metadata)
