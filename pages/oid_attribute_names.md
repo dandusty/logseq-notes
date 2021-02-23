@@ -16,3 +16,4 @@ cn = urn:oid:2.5.4.3
 #+END_EXAMPLE
 ## You can find oid values by running this command on one of our servers
 `queryGTED -b cn=schema attributetypes`
+## #sso
