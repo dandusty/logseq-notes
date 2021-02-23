@@ -14,4 +14,5 @@ gtEmployeeHomeDepartmentNumber = urn:oid:1.3.6.1.4.1.636.2.11.1.55
 sn = urn:oid:2.5.4.4
 cn = urn:oid:2.5.4.3
 #+END_EXAMPLE
-## You can find oid values by
+## You can find oid values by running this command on one of our servers
+`queryGTED -b cn=schema attributetypes`
