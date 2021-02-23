@@ -1,5 +1,8 @@
 ---
-title: logseq-calendar
+title: Logseq Calendar
+---
+
+: logseq-calendar
 ---
 
 ##
