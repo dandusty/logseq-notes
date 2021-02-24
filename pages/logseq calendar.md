@@ -2,7 +2,7 @@
 title: Logseq Calendar
 ---
 
-## ## #contents span.opacity-50 {
+## #contents span.opacity-50 {
     opacity: 0;
 }
 
@@ -65,4 +65,3 @@ title: Logseq Calendar
     color: violet;
 }
 */
-    
