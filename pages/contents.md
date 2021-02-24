@@ -3,4 +3,4 @@
 ## Tasks
 ### [[TODO]]
 ## [[recipes]]
-## {{embed }}
+## {{embed [[Logseq_Calendar]] }}
