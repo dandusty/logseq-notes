@@ -3,4 +3,4 @@
 ## Tasks
 ### [[TODO]]
 ## [[recipes]]
-## /em
+## {{embed [[Logseq Query Ideas]] }}
