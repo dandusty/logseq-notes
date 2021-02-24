@@ -3,4 +3,4 @@
 ## Tasks
 ### [[TODO]]
 ## [[recipes]]
-## [[Logseq Calendar]]
+## /embed
