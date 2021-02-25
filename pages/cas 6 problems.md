@@ -13,7 +13,6 @@ testing url -
 - behavior: looping
 - solution: moved attribute release to json
 ## #sso
-## [[fw.noc SSO]]
 ## Remaining CAS Problems
 :PROPERTIES:
 :background_color: #793e3e
@@ -36,5 +35,5 @@ testing url -
 ### He then opened another tab and got a Login Successful pag
 ### Bert suggested modifying the error message to say "Application Not Found or Not Authorized to Use CAS" and mention in the sub text that the user can retry and it may work
 ## Resolved CAS Problems
-###
+### [[fw.noc SSO]]
 k
