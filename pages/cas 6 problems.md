@@ -35,4 +35,4 @@ https://fw.noc.gatech.edu/simplesaml/module.php/core/authenticate.php?as=default
 ### CAS app that is getting service ticket validated, but can't login successfully
 ### Can't figure out what's wrong in the logs
 ## Eli Patterson's time out issue
-### Need to
+### He waited a long time on the CAS login page
