@@ -14,11 +14,7 @@ testing url -
 - solution: moved attribute release to json
 ## #sso
 ## [[fw.noc SSO]]
-:
-## fw.noc
-testing url -
-https://fw.noc.gatech.edu/simplesaml/module.php/core/authenticate.php?as=default-sp
-### Working now
+w
 ## Remaining CAS Problems
 :PROPERTIES:
 :background_color: #978626
