@@ -34,4 +34,4 @@ https://fw.noc.gatech.edu/simplesaml/module.php/core/authenticate.php?as=default
 ## Remedy (Alex Agle)
 ### CAS app that is getting service ticket validated, but can't login successfully
 ### Can't figure out what's wrong in the logs
-##
+## Eli Patterson's
