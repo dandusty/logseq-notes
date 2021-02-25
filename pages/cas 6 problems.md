@@ -7,11 +7,6 @@ title: CAS 6 Problems
 :todo: 1613427008654
 :done: 1613533029388
 :END:
-## Blackbaud CRM
-testing url - 
-` https://crm32910s.sky.blackbaud.com/32910s/webui/webshellpage.aspx?databasename=32910s `
-- behavior: looping
-- solution: moved attribute release to json
 ## #sso
 ## Remaining CAS Problems
 :PROPERTIES:
@@ -35,5 +30,14 @@ testing url -
 ### He then opened another tab and got a Login Successful pag
 ### Bert suggested modifying the error message to say "Application Not Found or Not Authorized to Use CAS" and mention in the sub text that the user can retry and it may work
 ## Resolved CAS Problems
+:PROPERTIES:
+:background_color: #497d46
+:END:
 ### [[fw.noc SSO]]
+### Blackbaud CRM
+testing url - 
+` https://crm32910s.sky.blackbaud.com/32910s/webui/webshellpage.aspx?databasename=32910s `
+- behavior: looping
+- solution: moved attribute release to json
+
 k
