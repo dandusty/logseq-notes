@@ -7,4 +7,4 @@ title: Mytest SSO
 ## Testing url - auth.tag - TAG Cognito Prod
 `https://mytest-prod.gatech.edu/`
 ## Testing url - auth2.tag - TAG Cognito Dev
-`https://mytest-prod.gatech.edu/`
+`https://mytest-dev-tag.gatech.edu/`
