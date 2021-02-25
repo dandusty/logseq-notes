@@ -36,4 +36,5 @@ https://fw.noc.gatech.edu/simplesaml/module.php/core/authenticate.php?as=default
 ### Can't figure out what's wrong in the logs
 ## Eli Patterson's time out issue
 ### He waited a long time on the CAS login page and then tried to login and he got the Application Not Authorized to Use CAS message
-### He then opened another tab and
+### He then opened another tab and got a Login Successful page
+### Bert suggested
