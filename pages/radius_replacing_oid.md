@@ -8,4 +8,4 @@ title: Radius replacing OID
 ## hostname of databases with radius set up
 `bdevl-db-c.eis.gatech.edu -- bdevl`
 ## Got it work by editing the properties of the alias in SQL Squirrel
-##
+## ![image.png](../../../../../assets/pages_radius_replacing_oid_1614283766409_0.png)
