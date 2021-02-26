@@ -7,5 +7,4 @@ title: Personal AWS Notes
 ###
 ```
 ssh -i dusty-personal-aws.pem ec2-user@18.219.249.140
-
 ```
