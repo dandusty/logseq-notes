@@ -37,4 +37,6 @@ Prep time: 15 minutes
 Cook time: 25 minutes
 
 Serves: 4-6
-##
+## :PROPERTIES:
+:type: 
+:END:
