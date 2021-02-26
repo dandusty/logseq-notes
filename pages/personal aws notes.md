@@ -8,3 +8,4 @@ title: Personal AWS Notes
 ``` text
 ssh -i dusty-personal-aws.pem ec2-user@18.219.249.140
 ```
+### I use this instance to run the Lupin python script
