@@ -13,3 +13,4 @@ I use LS from different places without issues (but it needs some attention)
 I rarely have conflicts but, in case happens, this can easily be solved using GIT
 
 it is a bit of a "Technical's person" setup but it works great for me
+## Chinese Lupin Documentation - use Google Translate /link
