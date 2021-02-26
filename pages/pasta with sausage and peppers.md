@@ -2,11 +2,10 @@
 title: Pasta with Sausage and Peppers
 ---
 
-## ## Pasta with Sausage, Peppers, and Onions
+## Pasta with Sausage, Peppers, and Onions
 
 Link: [http://www.smells-like-home.com/2007/09/giadas-rigatoni-with-sausage-peppers-and-onions/](http://www.smells-like-home.com/2007/09/giadas-rigatoni-with-sausage-peppers-and-onions/) Rating: 10
 Tags: 45 min,Dinner,Easy,Pasta
-
 # Everyday Italian, Giada De Laurentiis
 
 ## Ingredients
