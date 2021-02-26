@@ -19,7 +19,7 @@ title: Kindle Unlimited to Read
 	- recommended on Amazon based on Inspector Gamache views
 	- might be a cozy style mystery similar to Gamache
 	- heroine is a forensic archaeologist which sounds pretty neat
-- [ ] [The Crimson Queen](https://www.amazon.com/gp/product/B01MRTK9NF?ref_=dbs_m_mng_rwt_calw_tkin_0&storeType=ebooks)
+- [ ] [The Crimson Queen(https://www.amazon.com/gp/product/B01MRTK9NF?ref_=dbs_m_mng_rwt_calw_tkin_0&storeType=ebooks)
 	- Recommended a lot in [this r/fantasy thread - Kindle unlimited recommendations](https://www.reddit.com/r/Fantasy/comments/kwr3b8/kindle_unlimited_recommendations/)
 - [ ]  World Tree Online: The Curse of Hurlig Ridge
     - Recommended in this [thread](https://reddit.com/r/litrpg/comments/l3f9t9/litrpg_with_good_relationships_andor_camaraderie/)
