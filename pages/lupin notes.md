@@ -14,4 +14,3 @@ I rarely have conflicts but, in case happens, this can easily be solved using GI
 
 it is a bit of a "Technical's person" setup but it works great for me
 ## [Chinese Lupin Documentation](https://cn.logseq.com/t/topic/314) - use Google Translate
-##
