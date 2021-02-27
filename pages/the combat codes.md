@@ -1,8 +1,7 @@
 ---
 title: The Combat Codes
-tags: book
+type: book
 ---
-
 ##
 :PROPERTIES:
 :type: Book
