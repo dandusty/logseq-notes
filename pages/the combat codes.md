@@ -3,7 +3,7 @@ title: The Combat Codes
 type: book
 ---
 ## Pages -  402
-##
-:PROPERTIES:
-:author: Alexander
+## :PROPERTIES:
+:author: Alexander Darwin
+:pages: 
 :END:
