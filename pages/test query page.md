@@ -20,7 +20,7 @@ title: Test Query Page
          :where
          [?b :block/properties ?p]
          [(get ?p "type") ?t]
-         [(= "Recipe" ?t)]]
+         [(= "Book" ?t)]]
  :view (fn [result]
          (when (seq result)
            (let [blocks (flatten result)]
