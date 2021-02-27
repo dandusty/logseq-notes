@@ -35,8 +35,8 @@ title: Test Query Page
                 (for [{:block/keys [title properties]} blocks]
                   [:tr
                    [:td (second (:url (second (first title))))]
-                   [:td (get properties "creator")]
-                   [:td (get properties "description")]])]]])))
+                   [:td (get properties "author")]
+                   [:td (get properties "pages")]])]]])))
  }
 #+END_QUERY
 ## {{query (page-property type book )}}
