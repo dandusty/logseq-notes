@@ -15,7 +15,7 @@ title: Test Query Page
 ## {{query (between [[Dec 5th, 2020]] [[Dec 7th, 2020]] )}}
 ##
 #+BEGIN_QUERY
-{:title [:h2 "Programming languages list"]
+{:title [:h2 "Books List"]
  :query [:find (pull ?b [*])
          :where
          [?b :block/properties ?p]
