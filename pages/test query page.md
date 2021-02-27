@@ -39,4 +39,4 @@ title: Test Query Page
                    [:td (get properties "description")]])]]])))
  }
 #+END_QUERY
-## {{query (page-property type reading)}}
+## {{query (page-property type book )}}
