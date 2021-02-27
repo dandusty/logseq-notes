@@ -1,5 +1,6 @@
 ---
 title: The Combat Codes
+tags: book
 ---
 
 ##
