@@ -28,9 +28,9 @@ title: Test Query Page
               [:table.table-auto
                [:thead
                 [:tr
-                 [:th {:width "20%"} "Name"]
-                 [:th {:width "20%"} "Creator"]
-                 [:th {:width "60%"} "Description"]]]
+                 [:th {:width "20%"} “Title"]
+                 [:th {:width "20%"} "Author"]
+                 [:th {:width "60%"} "Pages"]]]
                [:tbody
                 (for [{:block/keys [title properties]} blocks]
                   [:tr
