@@ -5,5 +5,6 @@ type: book
 ## Pages -  402
 ## :PROPERTIES:
 :author: Alexander Darwin
-:pages: 
+:pages: 402
+:start_date: 
 :END:
