@@ -41,4 +41,4 @@ title: Test Query Page
  }
 #+END_QUERY
 ## {{query (page-property type book )}}
-## {{query (and (todo now later done) [[groceries]])}}
+## {{query (and (todo done) [[groceries]])}}
