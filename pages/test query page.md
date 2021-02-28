@@ -40,4 +40,4 @@ title: Test Query Page
  }
 #+END_QUERY
 ## {{query (page-property type book )}}
-## {{query [[kindle_unlimited]] ((and )}}
+## {{query [[kindle_unlimited]] (and}}
