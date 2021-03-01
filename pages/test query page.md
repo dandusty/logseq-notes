@@ -44,7 +44,7 @@ title: Test Query Page
 ## {{query (and (todo todo done later) [[kindle_unlimited]])}}
 ##
 #+BEGIN_QUERY
-{:title "All todos with tag project"
+{:title "Kindle Unlimited To Read List"
  :query [:find (pull ?b [*])
          :where
          [?p :page/name "project"]
