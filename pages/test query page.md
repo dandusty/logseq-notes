@@ -56,6 +56,5 @@ title: Test Query Page
 {:title "Kindle Unlimited To Read List"
  :query [:find (pull ?b [*])
          :where
-         [?p :page/name "kindle_unlimited"]
-         [?b :block/marker ?m]]}
+         [?p :page/name "kindle_unlimited"]]}
 #+END_QUERY
