@@ -57,8 +57,5 @@ title: Test Query Page
  :query [:find (pull ?b [*])
          :where
          [?p :page/name "kindle_unlimited"]
-         [?b :block/marker ?m]
-         [(= "TODO" ?marker)]
-         [(= "DONE" ?marker)]
-         [(= "LATER" ?marker)]]}
+         [?b :block/marker ?m]]}
 #+END_QUERY
