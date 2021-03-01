@@ -51,8 +51,7 @@ title: Test Query Page
          [?b :block/marker ?m]
          [(= "TODO" ?marker)]]}
 #+END_QUERY
-## 2. Get all tasks with a tag "project"
-#+BEGIN_SRC clojure
+##
 #+BEGIN_QUERY
 {:title "All todos with tag project"
  :query [:find (pull ?b [*])
