@@ -51,4 +51,3 @@ title: Test Query Page
          [?b :block/marker ?m]
          [(= "TODO" ?marker)]]}
 #+END_QUERY
-##
