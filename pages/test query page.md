@@ -44,6 +44,6 @@ title: Test Query Page
 ## {{query (and (todo todo done later) [[kindle_unlimited]])}}
 ##
 #+BEGIN_QUERY
-{:title "Kindle Unlimited " :query [:find (pull ?b [*]) :where [?b :block/scheduled]]}
+{:title "Kindle Unlimited To Read" :query [:find (pull ?b [*]) :where [?b :block/scheduled]]}
 #+END_QUERY
 ##
