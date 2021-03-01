@@ -7,6 +7,7 @@ title: Avio Notes
 ## Lara Lawson - HR Coordinator
 ### Not super technical
 ### Can pick up on culture fit
+## Company Notes
 ## Great communicators, positive mindset
 ## Small company
 ## Like intellectually curious
