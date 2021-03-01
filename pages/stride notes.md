@@ -6,3 +6,4 @@ title: Stride Notes
 
 ## Software architecture
 ## Java and Mulesoft
+## Drive the strategy
