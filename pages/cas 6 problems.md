@@ -12,8 +12,6 @@ title: CAS 6 Problems
 :PROPERTIES:
 :background_color: #793e3e
 :END:
-### TurningTechnologies (Incommon Essential Attribute bundle not released)
-#### Paul has pushed a fix for this (Works)
 ### Matlab (scoped affiliation)
 #### Now using eduPersonAffiliation
 #### Not appending "@gatech.edu"
@@ -33,6 +31,8 @@ title: CAS 6 Problems
 :background_color: #497d46
 :END:
 ### [[fw.noc SSO]]
+### TurningTechnologies (Incommon Essential Attribute bundle not released)
+#### Paul has pushed a fix for this (Works)
 ### Blackbaud CRM
 testing url - 
 ` https://crm32910s.sky.blackbaud.com/32910s/webui/webshellpage.aspx?databasename=32910s `
