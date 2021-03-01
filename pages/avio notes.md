@@ -17,3 +17,4 @@ title: Avio Notes
 ### Skillset
 ### Looking for more technical
 ### Take home assessment then technical interview
+### Emphasize that I do development and architecture
