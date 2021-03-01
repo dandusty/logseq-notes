@@ -17,7 +17,8 @@ title: Avio Notes
 ### Skillset
 ### Looking for more technical
 ### Take home assessment then technical interview
-### Emphasize that I do development and architecture
+### Emphasize that I do development and architecture - She doesn't know I do architecture
+#### There are architect and develop
 ### Ask questions
 #### Work with Mulesoft and Accenture
 #### Demonstrate your knowledge of the company
