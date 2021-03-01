@@ -49,6 +49,6 @@ title: Test Query Page
          :where
          [?p :page/name "kindle_unlimited"]
          [?b :block/marker ?m]
-         [(not= ?m "nil")]]}
+         [(= "TODO" ?marker)]]}
 #+END_QUERY
 ##
