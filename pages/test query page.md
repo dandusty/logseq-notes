@@ -48,6 +48,7 @@ title: Test Query Page
  :query [:find (pull ?b [*])
          :where
          [?p :page/name "kindle_unlimited"]
-         [?b :block/ref-pages ?p]]}
+         [?b :block/marker ?m]
+         [(not= ?m "nil")]]}
 #+END_QUERY
 ##
