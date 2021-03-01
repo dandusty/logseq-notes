@@ -59,4 +59,3 @@ title: Test Query Page
          [?p :page/name "project"]
          [?b :block/ref-pages ?p]]}
 #+END_QUERY
-#+END_SRC
