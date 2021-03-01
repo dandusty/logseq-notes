@@ -16,4 +16,4 @@ title: Avio Notes
 ### What you do
 ### Skillset
 ### Looking for more technical
-### Take home assessment
+### Take home assessment then technical interview
