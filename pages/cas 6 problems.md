@@ -12,7 +12,6 @@ title: CAS 6 Problems
 :PROPERTIES:
 :background_color: #793e3e
 :END:
-:
 ### TurningTechnologies (Incommon Essential Attribute bundle not released)
 #### Paul has pushed a fix for this (Works)
 ### Matlab (scoped affiliation)
