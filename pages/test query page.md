@@ -56,6 +56,5 @@ title: Test Query Page
 {:title "All todos with tag project"
  :query [:find (pull ?b [*])
          :where
-         [?p :page/name "kindle_unlimited"]
-         [?b :block/ref]}
+         [?p :page/name "kindle_unlimited"]}
 #+END_QUERY
