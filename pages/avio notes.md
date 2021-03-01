@@ -11,4 +11,4 @@ title: Avio Notes
 ### Great communicators, positive mindset
 ### Small company
 ### Like intellectually curious
-### Sr. team members will
+### Sr. team members will help jr. members
