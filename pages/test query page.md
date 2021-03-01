@@ -51,3 +51,14 @@ title: Test Query Page
          [?b :block/marker ?m]
          [(= "TODO" ?marker)]]}
 #+END_QUERY
+##
+#+BEGIN_QUERY
+{:title "Kindle Unlimited To Read List"
+ :query [:find (pull ?b [*])
+         :where
+         [?p :page/name "kindle_unlimited"]
+         [?b :block/marker ?m]
+         [(= "TODO" ?marker)]
+         [(= "DONE" ?marker)]
+         [(= "LATER" ?marker)]]}
+#+END_QUERY
