@@ -18,3 +18,6 @@ title: Avio Notes
 ### Looking for more technical
 ### Take home assessment then technical interview
 ### Emphasize that I do development and architecture
+### Ask questions
+#### Work with Mulesoft and Accenture
+#### Demonstrate your knowledge of the company
