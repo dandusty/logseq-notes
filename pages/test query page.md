@@ -57,5 +57,5 @@ title: Test Query Page
  :query [:find (pull ?b [*])
          :where
          [?p :page/name "kindle_unlimited"]
-         [?b :block/ref-pages ?p]]}
+         [?b :block/ref]}
 #+END_QUERY
