@@ -7,4 +7,5 @@ title: CAS 6 Troubleshooting
 2. Script: Trace a service ticket (get all the traceids and search for them in logs)
 3. Get the text being sent back to validate a ST
 4. Goal: Compare CAS6 response to CAS3
+##
 ## #sso
