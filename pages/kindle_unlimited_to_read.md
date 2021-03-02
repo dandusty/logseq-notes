@@ -19,8 +19,8 @@ title: Kindle Unlimited to Read
 ### comes from his Dragon's Scion posts
 ## TODO [The Crossing Places](https://www.amazon.com/gp/product/B003UV90G6?ref_=dbs_m_mng_rwt_calw_tkin_0&storeType=ebooks)
 ### recommended on Amazon based on Inspector Gamache views
-	- might be a cozy style mystery similar to Gamache
-	- heroine is a forensic archaeologist which sounds pretty neat
+### might be a cozy style mystery similar to Gamache
+### heroine is a forensic archaeologist which sounds pretty neat
 - [ ] [The Crimson Queen](https://www.amazon.com/gp/product/B01MRTK9NF?ref_=dbs_m_mng_rwt_calw_tkin_0&storeType=ebooks)
 	- Recommended a lot in [this r/fantasy thread - Kindle unlimited recommendations](https://www.reddit.com/r/Fantasy/comments/kwr3b8/kindle_unlimited_recommendations/)
 - [ ]  World Tree Online: The Curse of Hurlig Ridge
