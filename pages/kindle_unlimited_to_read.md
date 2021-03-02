@@ -11,9 +11,9 @@ title: Kindle Unlimited to Read
 ## TODO [A Threat of Shadows](https://www.amazon.com/Threat-Shadows-Keeper-Chronicles-Book-ebook/dp/B07H55LYC7)
 ### SPFBO Semi-Finalist
 ### Recommended via Amazon email 1-9-2020
-- [ ] [The Narrows](https://www.amazon.com/Narrows-Travis-M-Riddle-ebook/dp/B07JD6583K)
-	- Recommended via Amazon email 1-9-2020
-- [ ] [Super Powereds: Year 1](https://www.amazon.com/Super-Powereds-Year-Drew-Hayes-ebook/dp/B00BIJ05F2)
+## TODO [The Narrows](https://www.amazon.com/Narrows-Travis-M-Riddle-ebook/dp/B07JD6583K)
+### Recommended via Amazon email 1-9-2021
+## TODO [Super Powereds: Year 1](https://www.amazon.com/Super-Powereds-Year-Drew-Hayes-ebook/dp/B00BIJ05F2)
 - [ ] [Dragonflame](https://www.amazon.com/dp/B08R6HB1C6?tag=smallworlds05-20&geniuslink=true)
 	- author from r/Hydrael_Writes
 	- comes from his Dragon's Scion posts
