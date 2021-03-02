@@ -34,6 +34,7 @@ title: Avio Notes
 ##### Meet with Architect - Greg
 ###### Go through questions - Mulesoft
 ###### Picked this one
+###### 30 Minutes
 ##### After assessment
 ###### Technical Interview - 90 min
 ###### With Team
