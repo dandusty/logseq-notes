@@ -10,4 +10,4 @@ title: CAS 6 Development
 1. Make a change to the test branch first
 2. Go to master branch
 3. Compare & pull request
-4.
+4. Should see
