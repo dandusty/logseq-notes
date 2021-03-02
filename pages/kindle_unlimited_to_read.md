@@ -38,8 +38,8 @@ title: Kindle Unlimited to Read
 ### Now a Netflix movie
 ## TODO [The Lord of Stariel](https://www.amazon.com/Lord-Stariel-AJ-Lancaster-ebook/dp/B07HD681WN/ref=nodl_)
 ### [Reviewed by lost_chayote](https://www.reddit.com/r/Fantasy/comments/klil2k/kindle_unlimited_reviews_the_lord_of_stariel_by/)
-    - Nice cover art, part of a series
-    - *The Lord of Stariel* is a delightful and fun fantasy-of-manners, with likable characters and an engaging mystery at its core.
+### Nice cover art, part of a serieS
+### *The Lord of Stariel* is a delightful and fun fantasy-of-manners, with likable characters and an engaging mystery at its core.
     - 319 pages
 - [ ]  [Magi and the Shinigami Detective](https://www.amazon.com/Magic-Shinigami-Detective-Files-Davenforth-ebook/dp/B07CH8KVSZ/ref=mp_s_a_1_1_sspa?dchild=1&keywords=honor+raconteur+case+files+of+henri+davenforth&qid=1611967987&sprefix=honor+racon&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyR0hJVkJEOEtEMUtWJmVuY3J5cHRlZElkPUEwMTQ4MjMxMzM3SEFZN1dVTzcwQiZlbmNyeXB0ZWRBZElkPUExMDM1ODU2Q0NMU1YzUlhWUVNaJndpZGdldE5hbWU9c3BfcGhvbmVfc2VhcmNoX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
     - The Case Files of Henri Davenforth
