@@ -14,7 +14,7 @@ title: CAS 6 Problems
 :END:
 ### Matlab (scoped affiliation) - Mathworks
 #### Only releasing eduPersonTargetedId
-#### Needs
+#### Needs eppn, eduPersonScopedAffiliation, mail, and givenName
 ### github academic and github business (entitlement authorization)
 ### Ridecell (not able to load metadata)
 ### With javascript disabled, redirect to Login.gatech doesn't happen (leads to a single factor login opportunity)
