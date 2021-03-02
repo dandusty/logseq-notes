@@ -13,8 +13,8 @@ title: CAS 6 Problems
 :background_color: #793e3e
 :END:
 ### Matlab (scoped affiliation) - Mathworks
-#### Now using eduPersonAffiliation
-#### Not appending "@gatech.edu"
+#### Only releasing eduPersonTargetedId
+#### Needs
 ### github academic and github business (entitlement authorization)
 ### Ridecell (not able to load metadata)
 ### With javascript disabled, redirect to Login.gatech doesn't happen (leads to a single factor login opportunity)
