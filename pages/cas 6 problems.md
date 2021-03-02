@@ -32,6 +32,7 @@ title: CAS 6 Problems
 ### Incommon - mdq not working
 ### Banner - CAS protocol not working
 #### May switch to SAML2
+### Malicious users can bypass Duo by authenticating with sso.gatech and
 ## Resolved CAS Problems
 :PROPERTIES:
 :background_color: #497d46
