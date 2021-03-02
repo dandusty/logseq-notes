@@ -36,3 +36,9 @@ title: Avio Notes
 ###### Picked this one
 ##### After assessment
 ###### Technical Interview
+###### With Team
+###### They'll ask about your projects
+###### What would you do?
+###### Technical provicienciy
+###### Best practices
+###### Communicat
