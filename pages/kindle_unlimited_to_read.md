@@ -4,7 +4,7 @@ title: Kindle Unlimited to Read
 
 ## Kindle Unlimited to Read
 - [x]
-## [Shadow of a Dead God](https://www.amazon.com/Shadow-Dead-God-Fantasy-Mystery-ebook/dp/B0888RFP2C/ref=sr_1_1?dchild=1&keywords=shadow+of+a+dead+god&qid=1605726888&sr=8-1)
+## TODO [Shadow of a Dead God](https://www.amazon.com/Shadow-Dead-God-Fantasy-Mystery-ebook/dp/B0888RFP2C/ref=sr_1_1?dchild=1&keywords=shadow+of+a+dead+god&qid=1605726888&sr=8-1)
 ### SPFBO 2020 Finalist
 ### Recommended by [[SPFBO Flowchart]] 
 - [ ]
