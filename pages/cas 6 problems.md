@@ -12,9 +12,6 @@ title: CAS 6 Problems
 :PROPERTIES:
 :background_color: #793e3e
 :END:
-### Matlab (scoped affiliation) - Mathworks
-#### Only releasing eduPersonTargetedId
-#### Needs eppn, eduPersonScopedAffiliation, mail, and givenName
 ### github academic and github business (entitlement authorization)
 ### Ridecell (not able to load metadata)
 ### With javascript disabled, redirect to Login.gatech doesn't happen (leads to a single factor login opportunity)
@@ -37,6 +34,9 @@ title: CAS 6 Problems
 :PROPERTIES:
 :background_color: #497d46
 :END:
+### Matlab (scoped affiliation) - Mathworks
+#### Only releasing eduPersonTargetedId
+#### Needs eppn, eduPersonScopedAffiliation, mail, and givenName
 ### [[fw.noc SSO]]
 ### TurningTechnologies (Incommon Essential Attribute bundle not released)
 #### Paul has pushed a fix for this (Works)
