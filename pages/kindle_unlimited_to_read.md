@@ -15,10 +15,10 @@ title: Kindle Unlimited to Read
 ### Recommended via Amazon email 1-9-2021
 ## TODO [Super Powereds: Year 1](https://www.amazon.com/Super-Powereds-Year-Drew-Hayes-ebook/dp/B00BIJ05F2)
 ## TODO [Dragonflame](https://www.amazon.com/dp/B08R6HB1C6?tag=smallworlds05-20&geniuslink=true)
-	- author from r/Hydrael_Writes
-	- comes from his Dragon's Scion posts
-- [ ] [The Crossing Places](https://www.amazon.com/gp/product/B003UV90G6?ref_=dbs_m_mng_rwt_calw_tkin_0&storeType=ebooks)
-	- recommended on Amazon based on Inspector Gamache views
+### author from r/Hydrael_Writes
+### comes from his Dragon's Scion posts
+## TODO [The Crossing Places](https://www.amazon.com/gp/product/B003UV90G6?ref_=dbs_m_mng_rwt_calw_tkin_0&storeType=ebooks)
+### recommended on Amazon based on Inspector Gamache views
 	- might be a cozy style mystery similar to Gamache
 	- heroine is a forensic archaeologist which sounds pretty neat
 - [ ] [The Crimson Queen](https://www.amazon.com/gp/product/B01MRTK9NF?ref_=dbs_m_mng_rwt_calw_tkin_0&storeType=ebooks)
