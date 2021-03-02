@@ -36,7 +36,6 @@ title: CAS 6 Problems
 :END:
 ### Matlab (scoped affiliation) - Mathworks
 #### Only releasing eduPersonTargetedId
-#### Needs eppn, eduPersonScopedAffiliation, mail, and givenName
 ### [[fw.noc SSO]]
 ### TurningTechnologies (Incommon Essential Attribute bundle not released)
 #### Paul has pushed a fix for this (Works)
