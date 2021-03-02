@@ -10,4 +10,3 @@ title: CAS 6 Development
 ### Make a change to the test branch first
 1. Go to master branch
 2. Compare & pull request
-3.
