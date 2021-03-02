@@ -28,9 +28,9 @@ title: Kindle Unlimited to Read
 ## TODO [Dragon Mage](https://www.amazon.com/Dragon-Mage-Fantasy-Adventure-Rivenworld-ebook/dp/B08PDQ5XT4/ref=mp_s_a_1_1?dchild=1&keywords=dragon+mage&qid=1611719020&sprefix=sragon+mage&sr=8-1)
 ### Looks like a good classic epic fantasy
 ### [Reviewed here on r/fantasy](https://reddit.com/r/Fantasy/comments/l5lm02/a_review_of_dragon_mage_by_ml_spencer_it_has/)
-- [ ]  [Gunmetal Gods](https://www.amazon.com/gp/product/B08KRHBB6Z/)
-    - Looks cool, Lovecraftian Gods, epic fantasy
-    - Author was [r/fantasy writer of the day](https://www.reddit.com/r/Fantasy/comments/l651xc/gunmetal_gods_an_ottoman_fantasy_with_a/?utm_source=share&utm_medium=web2x&context=3)
+## TODO [Gunmetal Gods](https://www.amazon.com/gp/product/B08KRHBB6Z/)
+### Looks cool, Lovecraftian Gods, epic fantasy
+### Author was [r/fantasy writer of the day](https://www.reddit.com/r/Fantasy/comments/l651xc/gunmetal_gods_an_ottoman_fantasy_with_a/?utm_source=share&utm_medium=web2x&context=3)
 - [ ]  [The Combat Codes](https://www.amazon.com/gp/product/B017OMXR7O)
     - [SPFBO 2020 Finalist](http://mark---lawrence.blogspot.com/2020/09/finalists-for-6th-spfbo.html)
 - [ ]  [The White Tiger](https://www.amazon.com/gp/product/B0015DWLD0?storeType=ebooks&ref=ku_mw_rw_dp)
