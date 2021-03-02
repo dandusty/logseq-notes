@@ -41,7 +41,7 @@ title: Test Query Page
  }
 #+END_QUERY
 ## {{query (page-property type book )}}
-## {{query (and (todo todo done later) [[kindle_unlimited]])}}
+## {{query (and (todo todo done later) [[ku_to_read_list]])}}
 ##
 #+BEGIN_QUERY
 {:title "Kindle Unlimited To Read List"
