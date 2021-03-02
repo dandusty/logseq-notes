@@ -12,7 +12,7 @@ title: CAS 6 Problems
 :PROPERTIES:
 :background_color: #793e3e
 :END:
-### Matlab (scoped affiliation)
+### Matlab (scoped affiliation) - Mathworks
 #### Now using eduPersonAffiliation
 #### Not appending "@gatech.edu"
 ### github academic and github business (entitlement authorization)
