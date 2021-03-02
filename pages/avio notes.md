@@ -35,7 +35,7 @@ title: Avio Notes
 ###### Go through questions - Mulesoft
 ###### Picked this one
 ##### After assessment
-###### Technical Interview
+###### Technical Interview - 90 min
 ###### With Team
 ###### They'll ask about your projects
 ###### What would you do?
