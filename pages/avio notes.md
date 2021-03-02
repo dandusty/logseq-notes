@@ -41,4 +41,5 @@ title: Avio Notes
 ###### What would you do?
 ###### Technical provicienciy
 ###### Best practices
-###### Communicat
+###### Communication skills
+####### Decision process
