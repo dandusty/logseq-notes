@@ -43,3 +43,4 @@ title: Avio Notes
 ###### Best practices
 ###### Communication skills
 ####### Decision process
+###### Hour long inteview - EVP and CTO
