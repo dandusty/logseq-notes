@@ -37,7 +37,7 @@ title: Kindle Unlimited to Read
 ### Man Booker winner
 ### Now a Netflix movie
 ## TODO [The Lord of Stariel](https://www.amazon.com/Lord-Stariel-AJ-Lancaster-ebook/dp/B07HD681WN/ref=nodl_)
-    - [Reviewed by lost_chayote](https://www.reddit.com/r/Fantasy/comments/klil2k/kindle_unlimited_reviews_the_lord_of_stariel_by/)
+### [Reviewed by lost_chayote](https://www.reddit.com/r/Fantasy/comments/klil2k/kindle_unlimited_reviews_the_lord_of_stariel_by/)
     - Nice cover art, part of a series
     - *The Lord of Stariel* is a delightful and fun fantasy-of-manners, with likable characters and an engaging mystery at its core.
     - 319 pages
