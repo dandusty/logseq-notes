@@ -9,4 +9,4 @@ title: CAS 6 Development
 ## Making changes - 03-02-2021
 1. Make a change to the test branch first
 1. Go to master branch
-2. Compare & pull request
+1. Compare & pull request
