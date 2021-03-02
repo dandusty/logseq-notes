@@ -8,5 +8,5 @@ title: CAS 6 Development
 3. What is the best practice for doing separate work in git going forward? Separate feature branches?
 ## Making changes - 03-02-2021
 1. Make a change to the test branch first
-1. Go to master branch
-1. Compare & pull request
+2. Go to master branch
+3. Compare & pull request
