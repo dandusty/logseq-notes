@@ -29,7 +29,7 @@ title: CAS 6 Problems
 ### Workday not working with IE 11 or Edge
 #### Production Workday url - `https://wd5.myworkday.com/gatech/d/home.htmld`
 ### Mist - new app not working with CAS
-### Incommon - mdc not working
+### Incommon - mdq not working
 ### Banner - CAS protocol not working
 #### May switch to SAML2
 ## Resolved CAS Problems
