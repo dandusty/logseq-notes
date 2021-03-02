@@ -25,3 +25,5 @@ title: Avio Notes
 ### Interview with Lara
 #### South and East Region
 #### Salesforce ventures has allowed them to cover entire US
+#### Blog posts and Webinars are part of the work
+#### Knowledge sharers
