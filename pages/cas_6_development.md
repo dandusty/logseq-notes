@@ -11,3 +11,4 @@ title: CAS 6 Development
 2. Go to master branch
 3. Compare & pull request
 4. Should see base: master <- compare: test
+5. Commit merge
