@@ -35,7 +35,6 @@ title: CAS 6 Problems
 :background_color: #497d46
 :END:
 ### Matlab (scoped affiliation) - Mathworks
-#### Only releasing eduPersonTargetedId
 ### [[fw.noc SSO]]
 ### TurningTechnologies (Incommon Essential Attribute bundle not released)
 #### Paul has pushed a fix for this (Works)
