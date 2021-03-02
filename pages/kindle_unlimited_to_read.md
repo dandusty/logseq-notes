@@ -42,7 +42,7 @@ title: Kindle Unlimited to Read
 ### *The Lord of Stariel* is a delightful and fun fantasy-of-manners, with likable characters and an engaging mystery at its core.
 ### 319 pages
 ## TODO [Magi and the Shinigami Detective](https://www.amazon.com/Magic-Shinigami-Detective-Files-Davenforth-ebook/dp/B07CH8KVSZ/ref=mp_s_a_1_1_sspa?dchild=1&keywords=honor+raconteur+case+files+of+henri+davenforth&qid=1611967987&sprefix=honor+racon&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyR0hJVkJEOEtEMUtWJmVuY3J5cHRlZElkPUEwMTQ4MjMxMzM3SEFZN1dVTzcwQiZlbmNyeXB0ZWRBZElkPUExMDM1ODU2Q0NMU1YzUlhWUVNaJndpZGdldE5hbWU9c3BfcGhvbmVfc2VhcmNoX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
-    - The Case Files of Henri Davenforth
+## The Case Files of Henri Davenforth
     - [Low stakes or cozy fantasy on reddit](https://reddit.com/r/Fantasy/comments/l7hg3l/low_stakes_or_cozy_fantasy/)
     - 293 pages
 - [ ]  [Murder at Melrise Court](https://www.amazon.com/gp/aw/d/B07L3YWSM4?ref_=dbs_m_mng_wim_calw_tkin_0&storeType=ebooks)
