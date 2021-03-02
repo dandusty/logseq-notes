@@ -33,9 +33,9 @@ title: Kindle Unlimited to Read
 ### Author was [r/fantasy writer of the day](https://www.reddit.com/r/Fantasy/comments/l651xc/gunmetal_gods_an_ottoman_fantasy_with_a/?utm_source=share&utm_medium=web2x&context=3)
 ## TODO [The Combat Codes](https://www.amazon.com/gp/product/B017OMXR7O)
 ### [SPFBO 2020 Finalist](http://mark---lawrence.blogspot.com/2020/09/finalists-for-6th-spfbo.html)
-### TODO [The White Tiger](https://www.amazon.com/gp/product/B0015DWLD0?storeType=ebooks&ref=ku_mw_rw_dp)
-#### Man Booker winner
-#### Now a Netflix movie
+## TODO [The White Tiger](https://www.amazon.com/gp/product/B0015DWLD0?storeType=ebooks&ref=ku_mw_rw_dp)
+### Man Booker winner
+### Now a Netflix movie
 ## TODO [The Lord of Stariel](https://www.amazon.com/Lord-Stariel-AJ-Lancaster-ebook/dp/B07HD681WN/ref=nodl_)
     - [Reviewed by lost_chayote](https://www.reddit.com/r/Fantasy/comments/klil2k/kindle_unlimited_reviews_the_lord_of_stariel_by/)
     - Nice cover art, part of a series
