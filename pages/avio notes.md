@@ -28,3 +28,8 @@ title: Avio Notes
 #### Blog posts and Webinars are part of the work
 #### Knowledge sharers
 #### Career Matrix - clear path for growth
+#### Assessment
+##### Online - java, sql, rest
+###### 2 hr
+##### Meet with Architect
+###### Go through questions - Mulesoft
