@@ -39,6 +39,8 @@ title: CAS 6 Problems
 :END:
 ### Matlab (scoped affiliation) - Mathworks
 ### github academic and github business (entitlement authorization)
+#### solved with inline groovy
+#### gtAccountEntitlement had to be included in the attribute map
 ### [[fw.noc SSO]]
 ### TurningTechnologies (Incommon Essential Attribute bundle not released)
 #### Paul has pushed a fix for this (Works)
