@@ -14,7 +14,7 @@ title: CAS 6 Problems
 :END:
 ### github academic and github business (entitlement authorization)
 ### Ridecell (not able to load metadata)
-#### Login url - `https://gt-new.ridecell.com/request`
+#### Login url - `https://gt-new.ridecell.com/request
 #### May need to use local metadata as a workaround
 ### With javascript disabled, redirect to Login.gatech doesn't happen (leads to a single factor login opportunity)
 #### Can we include something in the flow that warns users that login will not work if javascript isn't enabled? "You need to enable javascript to continue."  This would be on the CAS 6 login page
