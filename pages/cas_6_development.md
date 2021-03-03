@@ -14,5 +14,5 @@ title: CAS 6 Development
 5. Commit merge
 ## Bert is adding an Incommon warmup process to the CAS 6 startup
 ### Each container runs this every few seconds
-### It's used as one of the two healthchecks for the
+### It's used as one of the two healthchecks for the CAS containers
 ### If the script doesn't work for 3 minutes, then it will restart the container
