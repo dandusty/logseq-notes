@@ -13,4 +13,5 @@ DEBUG [org.apereo.cas.services.AbstractRegisteredServiceAttributeReleasePolicy] 
 #+END_EXAMPLE
 ## Checking CAS Status
 ### Actuator Health - `https://sso.gatech.edu/cas/actuator/health`
+###
 ## #sso
