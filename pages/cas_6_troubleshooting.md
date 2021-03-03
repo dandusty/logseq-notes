@@ -14,5 +14,4 @@ DEBUG [org.apereo.cas.services.AbstractRegisteredServiceAttributeReleasePolicy] 
 ## Checking CAS Status
 ### Actuator Health - `https://sso.gatech.edu/cas/actuator/health`
 ### Available endpoints for the actuator - `https://sso.gatech.edu/cas/actuator`
-### Custom health url - `https://sso.gatech.edu/cas/_gt_info.txt`
-## #sso
+### Custom health url - `https://sso.gatech.edu/cas/_gt_info.txt
