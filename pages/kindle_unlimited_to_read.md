@@ -48,5 +48,4 @@ title: Kindle Unlimited to Read
 ## TODO [Into the Labyrinth: Mage Errant Book 1](https://www.amazon.com/Into-Labyrinth-Mage-Errant-Book-ebook/dp/B07J675X2C/ref=sr_1_6?dchild=1&keywords=mage+errant&qid=1614693311&sr=8-6)
 ## #kindle_unlimited
 ## #reading
-#
-#lists
+# #lists
