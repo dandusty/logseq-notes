@@ -12,7 +12,6 @@ title: CAS 6 Problems
 :PROPERTIES:
 :background_color: #793e3e
 :END:
-### github academic and github business (entitlement authorization)
 ### Ridecell (not able to load metadata)
 #### Login url - https://gt-new.ridecell.com/request
 #### May need to use local metadata as a workaround
@@ -37,6 +36,7 @@ title: CAS 6 Problems
 :background_color: #497d46
 :END:
 ### Matlab (scoped affiliation) - Mathworks
+### github academic and github business (entitlement authorization)
 ### [[fw.noc SSO]]
 ### TurningTechnologies (Incommon Essential Attribute bundle not released)
 #### Paul has pushed a fix for this (Works)
