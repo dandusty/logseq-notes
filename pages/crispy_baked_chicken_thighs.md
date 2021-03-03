@@ -1,5 +1,6 @@
 ---
 title: Crispy Baked Chicken Thighs
+type: recipe
 ---
 
 ## #chicken #recipes
