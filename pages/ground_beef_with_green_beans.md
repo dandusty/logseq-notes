@@ -1,5 +1,6 @@
 ---
 title: Ground Beef with Green Beans
+type: recipe
 ---
 
 ## Ground Beef with Green Beans
