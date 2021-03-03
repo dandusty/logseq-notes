@@ -2,7 +2,7 @@
 title: CAS 6 Troubleshooting
 ---
 
-##
+## #sso
 ## Parsing Logs - Bert's Thoughts
 1. Script: Username and/or Application: Show Service tickets issued
 2. Script: Trace a service ticket (get all the traceids and search for them in logs)
