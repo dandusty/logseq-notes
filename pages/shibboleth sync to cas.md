@@ -1,5 +1,6 @@
 ---
 title: Shibboleth sync to CAS
+tags: sso
 ---
 
 ## #sso
