@@ -13,3 +13,4 @@ title: CAS 6
 ## [[CAS 6 Development]]
 ## [[CAS 6 Testing Links]]
 ## [[CAS 6 SAML2 Upgrade]]
+## [[CAS 6 Snippets]]
