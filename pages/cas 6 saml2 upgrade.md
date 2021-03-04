@@ -5,7 +5,7 @@ title: CAS 6 SAML2 Upgrade
 ## Dropbox not working - FIXED
 ### mail attribute is the actual mail and not eppn
 ### May be do to Incommon Essential Attribute Bundle
-### Fixed
+### Fixed by Paul
 ## Cisco apps not working - some FIXED and some have workarounds
 ### Cisco call manager may need to be encrypted
 ### ucucuty01.ucc.gatech.edu is working without encryption
