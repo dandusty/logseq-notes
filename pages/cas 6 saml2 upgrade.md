@@ -14,4 +14,4 @@ title: CAS 6 SAML2 Upgrade
 ### May be related to time skew - http://www.voipinfo.net/docs/cisco/118770-configure-cucm-00.pdf
 ### Not related to time skew.  It's actually a bug with CAS where it's not using the requested index number for the ACS url.
 ### We were able to get it working in a temporary state pointing to shib4 using a modified idp metadata file uploaded to Cisco UCM.
-### Tested UCM and Jabber and they were working. Webex Teams and Cisco PCA are working with
+### Tested UCM and Jabber and they were working. Webex Teams and Cisco PCA are working with sso.gatech
