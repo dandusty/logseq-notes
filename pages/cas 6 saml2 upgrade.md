@@ -26,4 +26,4 @@ title: CAS 6 SAML2 Upgrade
 ## GTRC Financials not working
 ### Paul Broe's app
 ### Prod url - https://financials.gtrc.gatech.edu:5443/cgi-bin/printenv
-### Dev url -
+### Dev url - https://financials-dev.gtrc.gatech.edu:5443/cgi-bin/printenv
