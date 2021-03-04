@@ -7,4 +7,4 @@ title: CAS 6 SAML2 Upgrade
 ### mail attribute is the actual mail and not eppn
 ### May be do to Incommon Essential Attribute Bundle
 ## Cisco apps not working
-### Cisco
+### Cisco call manager may need to be encrypted
