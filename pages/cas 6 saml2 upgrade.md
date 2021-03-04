@@ -16,4 +16,5 @@ title: CAS 6 SAML2 Upgrade
 ### We were able to get it working in a temporary state pointing to shib4 using a modified idp metadata file uploaded to Cisco UCM.
 ### Tested UCM and Jabber and they were working. Webex Teams and Cisco PCA are working with sso.gatech
 ## Ehsa not working
-###
+### https://fm-ehs.ad.gatech.edu/ehsa/
+### Attribute release hadn't been set up in CAS 6
