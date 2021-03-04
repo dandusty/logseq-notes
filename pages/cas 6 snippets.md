@@ -2,7 +2,7 @@
 title: CAS 6 Snippets
 ---
 
-## Adding a hard coded attribute
+## Adding a hard coded attribute**
 ### 
 ``` json
 "attributeReleasePolicy" : {
