@@ -6,6 +6,7 @@ title: CAS 6 SAML2 Upgrade
 
 ### mail attribute is the actual mail and not eppn
 ### May be do to Incommon Essential Attribute Bundle
+### Fixed
 ## Cisco apps not working
 ### Cisco call manager may need to be encrypted
 ### ucucuty01.ucc.gatech.edu is working without encryption
