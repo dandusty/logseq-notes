@@ -3,7 +3,8 @@ title: CAS 6 Snippets
 ---
 
 ## Adding a hard coded attribute
-### ``````
+### 
+``` json
 "attributeReleasePolicy" : {
     "@class" : "org.apereo.cas.services.ReturnMappedAttributeReleasePolicy",
     "allowedAttributes" : {
@@ -16,4 +17,4 @@ title: CAS 6 Snippets
           "roleId": "groovy {return '413141202'}"
       }
    }
-#+END_EXAMPLE
+```
