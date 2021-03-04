@@ -22,3 +22,4 @@ title: CAS 6 SAML2 Upgrade
 ### https://gatech.infoready4.com/
 ### Not getting mail or the right eduPersonScopedAffiliation
 ### Attributes are mapped in json. May need to be moved to groovy to use Paul's eduPersonScopedAffiliation code
+### For now, I changed email_primary to mail in the json.  Need to fix email_primary in cas.properties
