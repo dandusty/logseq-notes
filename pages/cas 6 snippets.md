@@ -3,7 +3,8 @@ title: CAS 6 Snippets
 ---
 
 ## Adding a hard coded attribute
-### "attributeReleasePolicy" : {
+### ``````
+"attributeReleasePolicy" : {
     "@class" : "org.apereo.cas.services.ReturnMappedAttributeReleasePolicy",
     "allowedAttributes" : {
           "@class" : "java.util.TreeMap",
