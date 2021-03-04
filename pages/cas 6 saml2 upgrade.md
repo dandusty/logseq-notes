@@ -18,4 +18,6 @@ title: CAS 6 SAML2 Upgrade
 ### https://fm-ehs.ad.gatech.edu/ehsa/
 ### Attribute release hadn't been set up in CAS 6
 ### Set up the attribute release in the json and added encryption
-##
+## Infoready not working
+### https://gatech.infoready4.com/
+###
