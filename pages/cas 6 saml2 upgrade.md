@@ -21,4 +21,4 @@ title: CAS 6 SAML2 Upgrade
 ## Infoready not working
 ### https://gatech.infoready4.com/
 ### Not getting mail or the right eduPersonScopedAffiliation
-###
+### Attributes are mapped in json. May need to be moved to groovy to use Paul's eduPersonScopedAffiliation code
