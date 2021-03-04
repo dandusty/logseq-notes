@@ -1,5 +1,6 @@
 ---
 title: CAS 6 Snippets
+tags: sso
 ---
 
 ## **Adding a hard coded attribute**
