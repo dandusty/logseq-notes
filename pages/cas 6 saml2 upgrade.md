@@ -20,4 +20,5 @@ title: CAS 6 SAML2 Upgrade
 ### Set up the attribute release in the json and added encryption
 ## Infoready not working
 ### https://gatech.infoready4.com/
+### Not getting mail or the right eduPersonScopedAffiliation
 ###
