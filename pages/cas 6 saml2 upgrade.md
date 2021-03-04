@@ -23,3 +23,6 @@ title: CAS 6 SAML2 Upgrade
 ### Not getting mail or the right eduPersonScopedAffiliation
 ### Attributes are mapped in json. May need to be moved to groovy to use Paul's eduPersonScopedAffiliation code
 ### For now, I changed email_primary to mail in the json.  Need to fix email_primary in cas.properties
+## GTRC Financials not working
+### Paul Broe's app
+### This may be the url to test with - https://vpr-aplprod7.gtrc.gatech.edu:4443
