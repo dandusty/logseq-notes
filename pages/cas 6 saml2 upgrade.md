@@ -40,6 +40,9 @@ title: CAS 6 SAML2 Upgrade
 ### gtEmployeeSN does not use the oid value from sn
 ### employeeNumber does not use the oid value of employeeNumber
 ### Fixed by moving the attribute release to json
-## Onthehub not working
+## Onthehub not working - FIXED
 ### Testing url - https://e5.onthehub.com/WebStore/Welcome.aspx?ws=be68ac5d-eccd-dc11-8873-0030485a6b08&&utm_source=Georgia%20Institute%20of%20Technology
-### Had to switch to local metadata which I downloaded from the Incommon Metadata browser site -
+### Had to switch to local metadata which I downloaded from the Incommon Metadata browser site - https://met.refeds.org/met/entity/https%253A%252F%252Fe5.onthehub.com/
+### Problem was an invalid signing certificate in the metadata coming from the Incommon aggregate
+## Security Scorecard not working
+###
