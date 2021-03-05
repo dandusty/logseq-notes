@@ -4,6 +4,9 @@ tags: sso
 ---
 
 ## **Adding a hard coded attribute**
+:PROPERTIES:
+:id: 60423405-8fd8-40e0-99a0-7388c67dff38
+:END:
 ### 
 ``` json
 "attributeReleasePolicy" : {
