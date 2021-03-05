@@ -10,4 +10,4 @@ title: Logseq Links
 :PROPERTIES:
 :id: 60423557-eec3-4219-a805-560fcc100205
 :END:
-## [Better Logseq query tutorial](https://docs.datomic.com/on-prem/query/query.html#queries
+## [Better Logseq query tutorial](https://docs.datomic.com/on-prem/query/query.html#queries)
