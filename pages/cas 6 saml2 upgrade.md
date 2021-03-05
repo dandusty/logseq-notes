@@ -37,3 +37,4 @@ title: CAS 6 SAML2 Upgrade
 #### Demo has different attributes like Aon Key
 ### OneUSG Connect - https://oneusgconnect.usg.edu/
 ### No mail
+### gtEmployeeSN does not use the oid value from sn
