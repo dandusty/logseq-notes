@@ -6,3 +6,4 @@ title: Logseq Links
 ## [My logseq repo](https://github.com/dandusty/logseq-notes/tree/master/pages)
 ## [Logseq tools by piotr](https://piotrsss.github.io/logseq-tools/public/)
 ## [Lupin github](https://github.com/akhater/Lupin)
+## [Automatic]
