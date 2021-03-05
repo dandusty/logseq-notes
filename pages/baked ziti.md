@@ -26,5 +26,5 @@ type: recipe
 4. **Add onions and sauté, then add garlic, spices, then tomato sauce:** When the meat is mostly browned, add the onions and stir well to combine. Sauté everything until the onions are translucent and beginning to brown, about 4-5 minutes. Add the garlic, rosemary or basil, Italian seasoning and red pepper flakes and stir to combine. Cook 1 minute, then add the tomato sauce and stir well. Bring to a simmer.
 5. **Preheat the oven to 350°F.**
 6. **Layer sauce, cheese, pasta in casserole dish:** Spread a thin layer of sauce in the bottom of a 9x13-inch casserole pan, then dot the surface with half the ricotta cheese. Ladle a spoonful of sauce into the pasta, stir it well and then add the pasta into the casserole.
-7. Pour the rest of the sauce over the pasta, dot the remaining ricotta cheese over the pasta, and sprinkle on top both the mozzarella and the Parmesan cheese.
+7. **Pour the rest of the sauce over the pasta** and dot the remaining ricotta cheese over the pasta, and sprinkle on top both the mozzarella and the Parmesan cheese.
 8. **Bake 20 min:** Bake in oven at 350°F until the top is lightly browned and the cheese melted, about 20 minutes.
