@@ -18,24 +18,25 @@ title: CAS 6 SAML2 Upgrade
 ### https://fm-ehs.ad.gatech.edu/ehsa/
 ### Attribute release hadn't been set up in CAS 6
 ### Set up the attribute release in the json and added encryption
-## Infoready not working
+## Infoready not working - FIXED
 ### https://gatech.infoready4.com/
 ### Not getting mail or the right eduPersonScopedAffiliation
 ### Attributes are mapped in json. May need to be moved to groovy to use Paul's eduPersonScopedAffiliation code
 ### For now, I changed email_primary to mail in the json.  Need to fix email_primary in cas.properties
-## GTRC Financials not working
+## GTRC Financials not working - PROD FIXED
 ### Paul Broe's app
 ### Prod url - https://financials.gtrc.gatech.edu:5443/cgi-bin/printenv
 ### Dev url - https://financials-dev.gtrc.gatech.edu:5443/cgi-bin/printenv
 ### May need different name format - https://apereo.github.io/cas/6.1.x/installation/Configuring-SAML2-Attribute-Release.html#attribute-name-formats
-## Expo not working
+## Expo not working - FIXED
 ### Url - expo.gatech.edu
 ### Fixed by using groovy hardcoded attribute values
 #### ((60423405-8fd8-40e0-99a0-7388c67dff38))
-## OneUSG not working
+## OneUSG not working - FIXED
 ### Testing url - http://idp-demo-prod.bor.usg.edu/
 #### Demo has different attributes like Aon Key
 ### OneUSG Connect - https://oneusgconnect.usg.edu/
 ### No mail
 ### gtEmployeeSN does not use the oid value from sn
 ### employeeNumber does not use the oid value of employeeNumber
+### Fixed by moving the attribute release to json
