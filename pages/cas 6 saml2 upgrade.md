@@ -42,3 +42,4 @@ title: CAS 6 SAML2 Upgrade
 ### Fixed by moving the attribute release to json
 ## Onthehub not working
 ### Testing url - https://e5.onthehub.com/WebStore/Welcome.aspx?ws=be68ac5d-eccd-dc11-8873-0030485a6b08&&utm_source=Georgia%20Institute%20of%20Technology
+### Had to switch to local metadata which I downloaded from the Incommon Metadata browser site -
