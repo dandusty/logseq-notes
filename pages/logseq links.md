@@ -12,3 +12,6 @@ title: Logseq Links
 :END:
 ## [Logseq query tutorial from Logseq documentation](http://www.learndatalogtoday.org/chapter/0)
 ## [Better Logseq query tutorial](https://docs.datomic.com/on-prem/query/query.html#queries)
+:PROPERTIES:
+:id: 604235d1-0f2c-412c-b90a-f57233738d0c
+:END:
