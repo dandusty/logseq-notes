@@ -36,3 +36,4 @@ title: CAS 6 SAML2 Upgrade
 ### Testing url - http://idp-demo-prod.bor.usg.edu/
 #### Demo has different attributes like Aon Key
 ### OneUSG Connect - https://oneusgconnect.usg.edu/
+### No mail
