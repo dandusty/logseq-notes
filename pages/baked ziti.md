@@ -21,7 +21,7 @@ type: recipe
 ## **Instructions**
 
 1.  **Boil the pasta:** Heat a large pot of water (2 quarts of water) to a strong boil. Add a tablespoon of salt. Add the pasta and cook at a rolling boil, uncovered, until the pasta is al dente—edible but still a little firm to the bite.
-2. Drain the pasta through a colander. Toss with a little olive oil so the pasta does not stick together while you make the sauce.
+2. **Drain the pasta through a colander**. Toss with a little olive oil so the pasta does not stick together while you make the sauce.
 3. **Brown the meat:** While the water is heating in the previous step, start on the sauce. Heat a tablespoon of olive oil in a large sauté pan on medium-high heat. When the oil is shimmering hot, add the bulk sausage or ground meat. Break up any large chunks of sausage as it cooks. Brown well.  Don't stir that often or it will be more difficult for the meat to brown. If you are using ground beef or pork instead of sausage, sprinkle with a little salt.
 4. **Add onions and sauté, then add garlic, spices, then tomato sauce:** When the meat is mostly browned, add the onions and stir well to combine. Sauté everything until the onions are translucent and beginning to brown, about 4-5 minutes. Add the garlic, rosemary or basil, Italian seasoning and red pepper flakes and stir to combine. Cook 1 minute, then add the tomato sauce and stir well. Bring to a simmer.
 5. **Preheat the oven to 350°F.**
