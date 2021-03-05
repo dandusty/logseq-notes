@@ -33,3 +33,5 @@ title: CAS 6 SAML2 Upgrade
 ### Fixed by using groovy hardcoded attribute values
 #### ((60423405-8fd8-40e0-99a0-7388c67dff38))
 ## OneUSG not working
+### Testing url - http://idp-demo-prod.bor.usg.edu/
+###
