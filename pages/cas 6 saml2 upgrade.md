@@ -3,6 +3,9 @@ title: CAS 6 SAML2 Upgrade
 ---
 
 ## Dropbox not working - FIXED
+:PROPERTIES:
+:background_color: #497d46
+:END:
 ### mail attribute is the actual mail and not eppn
 ### May be do to Incommon Essential Attribute Bundle
 ### Fixed by Paul
