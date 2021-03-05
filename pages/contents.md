@@ -7,5 +7,5 @@
 ## Tasks
 ### [[TODO]]
 ### [[LATER]]
-## [[recipes]]
+## [[Recipe List]]
 ## [[CAS 6]]
