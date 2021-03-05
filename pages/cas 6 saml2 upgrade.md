@@ -51,6 +51,9 @@ title: CAS 6 SAML2 Upgrade
 ### Fixed by using groovy hardcoded attribute values
 #### ((60423405-8fd8-40e0-99a0-7388c67dff38))
 ## OneUSG not working - FIXED
+:PROPERTIES:
+:background_color: #497d46
+:END:
 ### Testing url - http://idp-demo-prod.bor.usg.edu/
 #### Demo has different attributes like Aon Key
 ### OneUSG Connect - https://oneusgconnect.usg.edu/
