@@ -46,4 +46,5 @@ title: CAS 6 SAML2 Upgrade
 ### Problem was an invalid signing certificate in the metadata coming from the Incommon aggregate
 ## Security Scorecard not working
 ### login url - https://platform.securityscorecard.io/
+### It was using uid as the nameId in the json, so I switched to eppn since that's what Shib uses.
 ###
