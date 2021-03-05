@@ -10,6 +10,9 @@ title: CAS 6 SAML2 Upgrade
 ### May be do to Incommon Essential Attribute Bundle
 ### Fixed by Paul
 ## Cisco apps not working - some FIXED and some have workarounds
+:PROPERTIES:
+:background_color: #978626
+:END:
 ### Cisco call manager may need to be encrypted
 ### ucucuty01.ucc.gatech.edu is working without encryption
 ### https://cucmpub01.ucc.gatech.edu:8443/ucmuser may need encryption
