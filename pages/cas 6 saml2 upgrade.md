@@ -45,4 +45,5 @@ title: CAS 6 SAML2 Upgrade
 ### Had to switch to local metadata which I downloaded from the Incommon Metadata browser site - https://met.refeds.org/met/entity/https%253A%252F%252Fe5.onthehub.com/
 ### Problem was an invalid signing certificate in the metadata coming from the Incommon aggregate
 ## Security Scorecard not working
-### login url -
+### login url - https://platform.securityscorecard.io/
+###
