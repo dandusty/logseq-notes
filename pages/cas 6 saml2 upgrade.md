@@ -40,3 +40,5 @@ title: CAS 6 SAML2 Upgrade
 ### gtEmployeeSN does not use the oid value from sn
 ### employeeNumber does not use the oid value of employeeNumber
 ### Fixed by moving the attribute release to json
+## Onthehub not working
+### Testing url - https://e5.onthehub.com/WebStore/Welcome.aspx?ws=be68ac5d-eccd-dc11-8873-0030485a6b08&&utm_source=Georgia%20Institute%20of%20Technology
