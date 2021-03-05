@@ -30,3 +30,4 @@ title: CAS 6 SAML2 Upgrade
 ### May need different name format - https://apereo.github.io/cas/6.1.x/installation/Configuring-SAML2-Attribute-Release.html#attribute-name-formats
 ## Expo not working
 ### Url - expo.gatech.edu
+### Fixed by
