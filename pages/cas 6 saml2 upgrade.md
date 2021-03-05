@@ -38,3 +38,4 @@ title: CAS 6 SAML2 Upgrade
 ### OneUSG Connect - https://oneusgconnect.usg.edu/
 ### No mail
 ### gtEmployeeSN does not use the oid value from sn
+### employeeNumber does not use the oid value of employeeNumber
