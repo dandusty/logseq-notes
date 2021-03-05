@@ -28,6 +28,9 @@ title: CAS 6 SAML2 Upgrade
 ### Attribute release hadn't been set up in CAS 6
 ### Set up the attribute release in the json and added encryption
 ## Infoready not working - FIXED
+:PROPERTIES:
+:background_color: #497d46
+:END:
 ### https://gatech.infoready4.com/
 ### Not getting mail or the right eduPersonScopedAffiliation
 ### Attributes are mapped in json. May need to be moved to groovy to use Paul's eduPersonScopedAffiliation code
