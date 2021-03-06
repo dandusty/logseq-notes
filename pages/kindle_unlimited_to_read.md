@@ -50,7 +50,7 @@ title: Kindle Unlimited to Read
 ### Recommended a lot in r/litrpg
 ### 646 pages
 ## TODO [The Crafter’s Dungeon](https://www.amazon.com/Crafters-Dungeon-Core-Novel-Crafting-ebook/dp/B07T72VCHH)
-###
+### Dungeon Core novel to try
 ## #kindle_unlimited
 ## #reading
 # #lists
