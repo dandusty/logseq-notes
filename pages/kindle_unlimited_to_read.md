@@ -49,7 +49,7 @@ title: Kindle Unlimited to Read
 ## TODO [Shadeslinger](https://www.amazon.com/Shadeslinger-Ripple-System-Book-Fantasy-ebook/dp/B08RY6CMWZ/ref=sr_1_1?dchild=1&keywords=shadeslinger&qid=1614782986&sr=8-1)
 ### Recommended a lot in r/litrpg
 ### 646 pages
-## TODO [[The Crafter’s Dungeon]()
+## TODO [[The Crafter’s Dungeon](https://www.amazon.com/Crafters-Dungeon-Core-Novel-Crafting-ebook/dp/B07T72VCHH)
 ## #kindle_unlimited
 ## #reading
 # #lists
