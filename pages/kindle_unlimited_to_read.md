@@ -54,6 +54,11 @@ title: Kindle Unlimited to Read
 :id: 6043ecb6-b8bb-4e48-bea4-5dc63345bb33
 :END:
 ### Dungeon Core novel to try
+## TODO [The Enigma Strain](https://www.amazon.com/Enigma-Strain-Harvey-Bennett-Thrillers-ebook/dp/B00N5GZGNC)
+:PROPERTIES:
+:id: 604523e3-f1fa-4b42-b5cb-3e9225d65402
+:END:
+### Action-adventure like James Rollins
 ## #kindle_unlimited
 ## #reading
 # #lists
