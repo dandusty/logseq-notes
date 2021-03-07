@@ -1,5 +1,6 @@
 ---
 title: Mulesoft Training
+tags: mulesoft, work
 ---
 
 ## MCD Certification
