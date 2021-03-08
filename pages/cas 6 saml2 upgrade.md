@@ -77,3 +77,6 @@ title: CAS 6 SAML2 Upgrade
 ### I wasn't able to log in to test so I asked Kyle Koza to test.
 ### He tested and it works
 ## Adobe Acrobat not working
+:PROPERTIES:
+:background_color: #793e3e
+:END:
