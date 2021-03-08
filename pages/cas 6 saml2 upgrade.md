@@ -76,3 +76,4 @@ title: CAS 6 SAML2 Upgrade
 ### It was using uid as the nameId in the json, so I switched to eppn since that's what Shib uses.
 ### I wasn't able to log in to test so I asked Kyle Koza to test.
 ### He tested and it works
+## Adobe Acrobat not working
