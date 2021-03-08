@@ -80,4 +80,4 @@ title: CAS 6 SAML2 Upgrade
 :PROPERTIES:
 :background_color: #793e3e
 :END:
-### Mark Sanders brought it up in
+### Mark Sanders brought it up in the CAS 6 Upgrade chat
