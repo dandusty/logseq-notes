@@ -1,32 +1,46 @@
----
-title: CAS 6 SAML2 Upgrade
----
-
-## Dropbox not working - FIXED
-### mail attribute is the actual mail and not eppn
-### May be do to Incommon Essential Attribute Bundle
-### Fixed by Paul
-## Cisco apps not working - some FIXED and some have workarounds
-### Cisco call manager may need to be encrypted
-### ucucuty01.ucc.gatech.edu is working without encryption
-### https://cucmpub01.ucc.gatech.edu:8443/ucmuser may need encryption
-### May be related to time skew - http://www.voipinfo.net/docs/cisco/118770-configure-cucm-00.pdf
-### Not related to time skew.  It's actually a bug with CAS where it's not using the requested index number for the ACS url.
-### We were able to get it working in a temporary state pointing to shib4 using a modified idp metadata file uploaded to Cisco UCM.
-### Tested UCM and Jabber and they were working with shib4. Webex Teams and Cisco PCA are working with sso.gatech
-## Ehsa not working - FIXED
-### https://fm-ehs.ad.gatech.edu/ehsa/
-### Attribute release hadn't been set up in CAS 6
-### Set up the attribute release in the json and added encryption
-## Infoready not working
-### https://gatech.infoready4.com/
-### Not getting mail or the right eduPersonScopedAffiliation
-### Attributes are mapped in json. May need to be moved to groovy to use Paul's eduPersonScopedAffiliation code
-### For now, I changed email_primary to mail in the json.  Need to fix email_primary in cas.properties
-## GTRC Financials not working
-### Paul Broe's app
-### Prod url - https://financials.gtrc.gatech.edu:5443/cgi-bin/printenv
-### Dev url - https://financials-dev.gtrc.gatech.edu:5443/cgi-bin/printenv
-### May need different name format - https://apereo.github.io/cas/6.1.x/installation/Configuring-SAML2-Attribute-Release.html#attribute-name-formats
-## Expo not working
-### Url - expo.gatech.edu
+-----BEGIN AGE ENCRYPTED FILE-----
+YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBYeFB4MmxtVzFuV3FiZk9E
+L1BHU0RybnNZUlJlS1NuSHJqVXAyaVVhWHhJCld5TG9CT1ArUzExblR4endCM2lu
+MTM1OExpcllvV1lMMnExNEdzcjRTdWMKLT4gS2FqMCpacy1ncmVhc2UgYTh0LCE7
+ClR5R01ORTA1WS9xU2c5NFZjSGNXcTRjek9CZWhWalBjUXRTdnRERkMKLS0tIE4x
+dlJMV3ZtcDJONkFjZW85dUNGeGRNWk5RaHRFaW0wVHRVcVIrdDBUWmMKqt35ayh3
+hjsyKqtPUSqQtr898cBEDmm72WBhkY0jKdpFdgkKHIWLq+GDaP9/8S+YQ9bfNDkv
+lDgNpFwQ8A0E0dc/0/i0PeQKgsUZcX3xlkNGJr6GswdWNrcqa1Boxcp8HRuIuAPg
+NP0WH/Obz5TjX59U+0iVE+KiChqH4z0CvyUiuczG1F+5w5PYheGmTuouy2ICNzbb
+/ZdU4MOKOwbRkU0pUpWbJDYRRnQwy8ldPl4VlNkl+H/tf7d+t3BQNSC2azvh99Xy
+EfMo8JtkAc4WguPEfrpLlUFjFnmXfoyM7YQZ5xSImeWi/+5lSzqduzlddvGdv4d6
+Xyubu2RyNJiiMjlcXT+bvLsK4ucHu3ESYZkF7L6rBClUK5ruDFc9y17cQs03PjsG
+MXgUy8exxDjixBg4AzhzlVs6kbohS3VqRTry5eNlErO2H62fLQ+EH1pvSw8x7HWP
+t5JOcOsIyYUn/bA8sFyNCm/F5KpCSAxpklOmeqPUkPOCg7xOkN+3HKO8RQ0yXBIs
+3c03z93AS4qRRvsV/arIUsIo21P4md9ZP9EHJuMyGFdOvJKXWu8UVQ9keJIf6Icc
+TCgjh+eshxs5Vf//GnxgeSbO1nOp6rYEEoKXXd+P6lSdm0m0ZF3Y+w1Xb4yuCYqN
+EpYEuUNFJ4idcGPtedA8eTlx9jDPPambCMyiPDebbPiH4A1Mppz3XpaE8UhH5oTn
+iHf/EC0vL8YlkIKIEBYL+uch48gPXulrf9/hI+lgtJ5gK+K29tH0jctfWBY6A/Fa
+mBk+kQhQaNW2lFHx7nAbRdi1rkpSn8pCOX8NmSYglPA5LzBSccwn9GJthSzp2SMv
+EO9z0N/uWzQfMWwiauzBo22If8RplM2xtjlmiQg+sDAdfZXopT1BaPnmDtJH5caW
+O0Fi3pMRUaI+ndeiLobiTJ2OOPIgc6Xax21CIUmEii1y/tRwAs52K5DaAhTi0xA6
+1f5JjARxuw00glJ9muHCi8ZxB18kK84t8Px0p2iZRSljyoysM0j8sipEft/wqAjT
+TeqIHUCsSljeISEBHyDt+FaMI8VuBxgTrA36xrQ669kWGBgp2vQolpv5VuY0L83j
+x9+8pDz0a5fQC99mNWly2AHBNLjd13Y4MX7od61H34DijC2rC15qQP31OssS3qZs
+QGQvQuFuw3/7fGgj7bFfuKVp/7v7J3lsSn9BsyJfGR2wZ+qLfOoUaEy2bZum9MTl
+ohtQaDsmL/g1Dg+oNrLm72CFlr9qQ9fII1Hdjq7wUouahSiv82AACsZJKqWk8+tM
+Kll6In4K8zGVKRq0E2pJC+T3mtkJ2mVmy+xXtI3+ZUDuacLy6hj5ZJALA2fadoOR
+22XqvtmhL3Wpr1Hg6WCulxLpBspxl2kN+lNeX/AOQlouZ8vSwymGnnYFGLsI96sj
+xTt6FnL+KXNCLVi6tW2lfirck4F6L0IZhIAv9gFLeMfkaRab9wyKMY/bqSJNJ9+Q
+nkRmgcKKB2u3Bc6CIqBRt7bemgFem2Vy6GbTXvPRvlV7c28kiVLhgcwRJ7qxA7jQ
+ADp/wkuebB2RbXbiQRYFzaEPZj0b5IID/utwpzYHdFu67ddZbEDRk7h/oTBZri2k
+vtlz/n3v6COobcIVa2Q6MyNNBl04xj2QjbeOwC4wtQmHA1LH+HqOY0bq/vlrPW1r
+cHdIf53UtTnUaSxr1V6yKWf6s1tNrMMPtq4XAk33U0KZQ6jCutPg1IVoLI+ACQcI
+CO1pvCvjDfG24NSEhbX1Q9StHmUEzPwTqVR2O0awANBPsZG1TrLSvlI934CSw7z2
+HJVHN6CJDJ0MPFgdNoiG7DO/nOmPTw4qNrrvsGXY22mToGGrHFAeDlxDp4TX/y0Z
+pu/qpyf/w7yMNZJXHH6YvFWZKc0kpOqCUYdRNLBX6cEPXkh+SFOKyGXY/Z5vX3Q0
+H24b3i3+rHgO5kp6w8F/z2MSfLKN7Y+MieX8LtdZCudY4gxxEmXgWUK5QhNXb+hq
+8I9dI0/TH1aud4DvugMOa14WG6GikVCFBtKR0Tdaa7ENGYguGVyn+gzb9+Lqfe0w
+Zjt7N7VR9JscR/E8Vs4RiwkDyue0VCNc3YDyFfypt9JRoPZojFoHM4Nyq7eGGHmq
+mXecu7oedIc65Lt+BlnKWCLNIdBjquXEeFi9CDbZM1A5RA3pqN4eWnLVjMfX1ROJ
+xi/8Pz477P4JrMrgrpoJMWxOZK90+wGU8N9BEvULNzOwDPrDynRAU4hV8O9r0sMk
+inklNiZJ3+p2lAsawYwVQNy21vvDP4QjwGDxkscGGcfTvkQyetvznBR+Q+m0GP0s
+zRJnSmPNsDSxqBk3R9i/iV7CTCKn1Rf3UV+/iC+rYOwlsXOoruGF7OOAONHc9j5f
+QGCN434cAoNHdVSjg/ucEEZ2SLj4th4fFnSgIlR3dtdlslowJCfh+QciJLnwyp0I
+qCm8DBDIkpgSBnfCFAGFUcBmy2+3cGwF56S/W/oFidDJCF9jAg8ymaEfUQ==
+-----END AGE ENCRYPTED FILE-----
