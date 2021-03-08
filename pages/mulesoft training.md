@@ -10,4 +10,4 @@ tags: mulesoft, work
 #### Data Weave
 #### Variables and Incrementing
 ## Mulesoft Development Fundamentals
-### Left off on 10 - Handling Errors,
+### Left off on 10 - Handling Errors, Handling specific types of errors
