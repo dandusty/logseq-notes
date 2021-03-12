@@ -12,4 +12,8 @@ tags: sso, cas
 ### On the 205 server, we set RT_ENV in cas-run.sh docker run command
 ### In Fargate, we do it in the task definition
 ## Host file changes to point to the 205 server
-###
+### 
+``` text
+# idp-rich (routes to sso-dev March 2021)
+130.207.165.156 idp.gatech.edu sso-test.gatech.edu
+```
