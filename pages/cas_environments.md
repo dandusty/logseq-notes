@@ -9,4 +9,5 @@ tags: sso, cas
 ## cas-test.gatech.edu
 ### Points to the 205 server as of [[Mar 12th, 2021]]
 ## Set the environment in the docker infrastructure
-### Set RT_ENV in cas-run
+### Set RT_ENV in cas-run.sh docker run command
+###
