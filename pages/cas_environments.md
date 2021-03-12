@@ -9,5 +9,5 @@ tags: sso, cas
 ## cas-test.gatech.edu
 ### Points to the 205 server as of [[Mar 12th, 2021]]
 ## Set the environment in the docker infrastructure
-### Set RT_ENV in cas-run.sh docker run command
-###
+### On the 205 server, we set RT_ENV in cas-run.sh docker run command
+### In Fargate, we do it in the task definition
