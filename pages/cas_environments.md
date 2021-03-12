@@ -11,3 +11,5 @@ tags: sso, cas
 ## Set the environment in the docker infrastructure
 ### On the 205 server, we set RT_ENV in cas-run.sh docker run command
 ### In Fargate, we do it in the task definition
+## Host file changes to point to the 205 server
+###
