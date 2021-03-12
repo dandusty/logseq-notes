@@ -1,5 +1,6 @@
 ---
 title: CAS 6 Working Sessions with Paul
+tags: sso, cas
 ---
 
 ## 03-12-2021
