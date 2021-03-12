@@ -3,7 +3,7 @@ title: Test Query Page
 ---
 
 ## [Logseq query examples](https://logseq.github.io/#/page/Queries)
-##
+## 
 #+BEGIN_QUERY
 {:title "All tasks"
  :query [:find (pull ?b [*])
