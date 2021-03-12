@@ -8,3 +8,5 @@ tags: sso, cas
 ## sso.gatech.edu - vip will point to production fargate
 ## cas-test.gatech.edu
 ### Points to the 205 server as of [[Mar 12th, 2021]]
+## Set the environment in the docker infrastructure
+### Set RT_ENV in cas-run
