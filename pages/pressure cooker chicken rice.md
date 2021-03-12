@@ -4,10 +4,7 @@ type: recipe
 tags: instant_pot
 ---
 
-## Pressure Cooker Chicken and Rice
-
-[Pressure Cooker Chicken and Rice - Instant Pot Recipe - Budget Bytes](https://www.budgetbytes.com/pressure-cooker-chicken-rice/)
-
+## [Pressure Cooker Chicken and Rice - Instant Pot Recipe - Budget Bytes](https://www.budgetbytes.com/pressure-cooker-chicken-rice/)
 ## Pressure Cooker Chicken and Rice
 
 Pressure Cooker Chicken and Rice is an easy and flavorful four-ingredient dinner that leaves zero waste. Slow cooker instructions included.
