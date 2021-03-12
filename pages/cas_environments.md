@@ -14,8 +14,6 @@ tags: sso, cas
 ## Host file changes to point to the 205 server
 ### 
 #+BEGIN_EXAMPLE
-
-#+END_EXAMPLE
-# idp-rich (routes to sso-dev March 2021)
+idp-rich (routes to sso-dev March 2021)
 130.207.165.156 idp.gatech.edu sso-test.gatech.edu
-```
+#+END_EXAMPLE
