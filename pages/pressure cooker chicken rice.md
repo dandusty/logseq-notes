@@ -1,5 +1,7 @@
 ---
 title: Pressure Cooker Chicken Rice
+type: recipe
+tags: instant_pot
 ---
 
 ## Pressure Cooker Chicken and Rice
