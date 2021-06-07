@@ -2,18 +2,18 @@
 title: Recent page test
 ---
 
-## @@html: <div style="display:none">@@
-#+BEGIN_QUERY
-{:title "Recent"
- :query [:find (pull ?p [*])
+- @@html: <div style="display:none">@@
+  #+BEGIN_QUERY
+  {:title "Recent"
+   :query [:find (pull ?p [*])
          :in $ ?start
          :where
          [?p :page/last-modified-at ?d]
          [?p :page/name ?n]
          [(>= ?d ?start)]
          [(not= ?n "contents")]]
- :inputs [:4d-before]
- :view (fn [result]
+   :inputs [:4d-before]
+   :view (fn [result]
   (for [p (take 4 (sort-by :page/last-modified-at > result))]
     [:div.ls-block.flex.flex-col.pt-1
       [:div.flex-1.flex-row
@@ -33,8 +33,8 @@ title: Recent page test
                 [:a.page-ref
                   {:href (str "/page/" (:page/name p))}
                   (-> p :page/properties :title)]]]]]]]))}
-#+END_QUERY
-<style>
-.custom-query { margin-top: 0; }
-.custom-query .opacity-70 { opacity: 1; }
-</style>
+  #+END_QUERY
+  <style>
+  .custom-query { margin-top: 0; }
+  .custom-query .opacity-70 { opacity: 1; }
+  </style>
